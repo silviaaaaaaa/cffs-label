@@ -1,0 +1,2089 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Items>
+    <Item id="I-7631" active="Y" keyItem="Y" actualize="N">
+        <Description>5 SPICE POWDER</Description>
+        <Cost>8.5000</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>ea</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="184">TP - 1. STORES 2</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-43652" active="Y" keyItem="Y" actualize="N">
+        <Description>ANCHO CHILLI</Description>
+        <Cost>30.0000</Cost>
+        <CaseQty>1.200</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4472" active="Y" keyItem="Y" actualize="N">
+        <Description>AVOCADO MX</Description>
+        <Cost>1.2450</Cost>
+        <CaseQty>20.000</CaseQty>
+        <CaseUOM>CT</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>CT</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4973" active="Y" keyItem="Y" actualize="N">
+        <Description>AVOCADO PULP CHUNKY</Description>
+        <Cost>0.0114</Cost>
+        <CaseQty>12.000</CaseQty>
+        <CaseUOM>bag</CaseUOM>
+        <PakQty>454.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments>ITEM CODE CHANGE FROM 4111297 TO 1572205 - JAN. 2020</Comments>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4496" active="Y" keyItem="Y" actualize="N">
+        <Description>BAK CHOY BABY BC</Description>
+        <Cost>1.3733</Cost>
+        <CaseQty>30.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-17203" active="Y" keyItem="Y" actualize="N">
+        <Description>BALSAMIC GLAZE</Description>
+        <Cost>19.2150</Cost>
+        <CaseQty>2.000</CaseQty>
+        <CaseUOM>bottle</CaseUOM>
+        <PakQty>2.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="490">OK - STORES AISLE #2</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3130" active="Y" keyItem="Y" actualize="N">
+        <Description>BASE BEEF CONC LIQ G/FREE</Description>
+        <Cost>0.0151</Cost>
+        <CaseQty>4.000</CaseQty>
+        <CaseUOM>pak</CaseUOM>
+        <PakQty>946.000</PakQty>
+        <PakUOM>ml</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="490">OK - STORES AISLE #2</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3619" active="Y" keyItem="Y" actualize="N">
+        <Description>BAY LEAF WHL SHAKER TFC</Description>
+        <Cost>0.0536</Cost>
+        <CaseQty>8.000</CaseQty>
+        <CaseUOM>each</CaseUOM>
+        <PakQty>84.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-2567" active="Y" keyItem="Y" actualize="N">
+        <Description>BEAN GREEN WHL GRADE A IQF</Description>
+        <Cost>3.5889</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>bag</CaseUOM>
+        <PakQty>1.500</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="302">OK - FREEZER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-23336" active="Y" keyItem="Y" actualize="N">
+        <Description>BEANS CANNELLINI</Description>
+        <Cost>1.7600</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>can</CaseUOM>
+        <PakQty>2.840</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="490">OK - STORES AISLE #2</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3149" active="Y" keyItem="Y" actualize="N">
+        <Description>BEANS TURTLE BLACK</Description>
+        <Cost>1.5646</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>LG CAN</CaseUOM>
+        <PakQty>2.840</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments>adjusted for Na+ (rinse &amp; drain 41%)</Comments>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3743" active="Y" keyItem="Y" actualize="N">
+        <Description>BEANS TURTLE BLACK T(US)</Description>
+        <Cost>2.8485</Cost>
+        <CaseQty>11.350</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3148" active="Y" keyItem="Y" actualize="N">
+        <Description>BEANS TURTLE BLK DRY</Description>
+        <Cost>4.2550</Cost>
+        <CaseQty>10.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="492">OK - STORES AISLE #4</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-37002" active="Y" keyItem="Y" actualize="N">
+        <Description>BEEF INSIDE ROUND SHAVED</Description>
+        <Cost>0.0158</Cost>
+        <CaseQty>9.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1000.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="5">MEAT</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="304">OK - MEAT COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-10869" active="Y" keyItem="Y" actualize="N">
+        <Description>BEEF STIRFRY COV FR</Description>
+        <Cost>14.5000</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>PRICE CHANGE AND CODE CHANGE OCT 2018</Comments>
+        <InventoryGroup id="5">MEAT</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="304">OK - MEAT COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-41921" active="Y" keyItem="Y" actualize="N">
+        <Description>BROCCOLI FLORET IQF</Description>
+        <Cost>4.5800</Cost>
+        <CaseQty>8.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="302">OK - FREEZER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-8060" active="Y" keyItem="Y" actualize="N">
+        <Description>BUTTER UNSALTED FRS 454G</Description>
+        <Cost>0.0119</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>ea</CaseUOM>
+        <PakQty>454.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="9">DAIRY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="301">OK - DAIRY COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4550" active="Y" keyItem="Y" actualize="N">
+        <Description>CABBAGE GREEN BC</Description>
+        <Cost>0.8310</Cost>
+        <CaseQty>50.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4555" active="Y" keyItem="Y" actualize="N">
+        <Description>CABBAGE GREEN SHREDDED 1/8 BC&quot;</Description>
+        <Cost>2.5000</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4572" active="Y" keyItem="Y" actualize="N">
+        <Description>CARROTS JUMBO PEELED US</Description>
+        <Cost>1.8980</Cost>
+        <CaseQty>25.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4975" active="Y" keyItem="Y" actualize="N">
+        <Description>CAULIFLOWER FLORET GRD A IQF</Description>
+        <Cost>3.2475</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>bag</CaseUOM>
+        <PakQty>2.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="302">OK - FREEZER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4597" active="Y" keyItem="Y" actualize="N">
+        <Description>CAULIFLOWER FLORETS H/CUS</Description>
+        <Cost>4.2900</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-56920" active="Y" keyItem="Y" actualize="N">
+        <Description>CAULIFLOWER RICED FZN</Description>
+        <Cost>4.7475</Cost>
+        <CaseQty>4.000</CaseQty>
+        <CaseUOM>bag</CaseUOM>
+        <PakQty>2.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3621" active="Y" keyItem="Y" actualize="N">
+        <Description>CAYENNE SHAKER TFC</Description>
+        <Cost>0.0107</Cost>
+        <CaseQty>8.000</CaseQty>
+        <CaseUOM>each</CaseUOM>
+        <PakQty>454.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4598" active="Y" keyItem="Y" actualize="N">
+        <Description>CELERY US</Description>
+        <Cost>1.1472</Cost>
+        <CaseQty>36.000</CaseQty>
+        <CaseUOM>CT</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>CT</PakUOM>
+        <Comments>0222030</Comments>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-2122" active="Y" keyItem="Y" actualize="N">
+        <Description>CHEESE FETA IN BRINE</Description>
+        <Cost>12.5733</Cost>
+        <CaseQty>3.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="9">DAIRY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="301">OK - DAIRY COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-14179" active="Y" keyItem="Y" actualize="N">
+        <Description>CHEESE MOZZA SHRED PIZZA BLEND</Description>
+        <Cost>11.6340</Cost>
+        <CaseQty>4.000</CaseQty>
+        <CaseUOM>bag</CaseUOM>
+        <PakQty>2.500</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="9">DAIRY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="301">OK - DAIRY COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-2141" active="Y" keyItem="Y" actualize="N">
+        <Description>CHEESE PARM SHRED 100% PURE</Description>
+        <Cost>20.1100</Cost>
+        <CaseQty>2.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>PRICE CHANGE AUGUST 2019</Comments>
+        <InventoryGroup id="9">DAIRY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="301">OK - DAIRY COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-19665" active="Y" keyItem="Y" actualize="N">
+        <Description>CHICK THIGH STIRFRY HALAL</Description>
+        <Cost>9.2900</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="30">POULTRY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="304">OK - MEAT COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-37478" active="Y" keyItem="Y" actualize="N">
+        <Description>CHILE ARBOL</Description>
+        <Cost>0.0140</Cost>
+        <CaseQty>1000.000</CaseQty>
+        <CaseUOM>g</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-37477" active="Y" keyItem="Y" actualize="N">
+        <Description>CHILE GUAJILLO</Description>
+        <Cost>0.0160</Cost>
+        <CaseQty>1000.000</CaseQty>
+        <CaseUOM>g</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-41492" active="Y" keyItem="Y" actualize="N">
+        <Description>CHILI ANCHO</Description>
+        <Cost>0.0160</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>ea</CaseUOM>
+        <PakQty>1000.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="184">TP - 1. STORES 2</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-41491" active="Y" keyItem="Y" actualize="N">
+        <Description>CHILI CHIPOTLE WHOLE</Description>
+        <Cost>0.0280</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>each</CaseUOM>
+        <PakQty>1000.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="19">GROCERY</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-5975" active="Y" keyItem="Y" actualize="N">
+        <Description>CHILI MEXICAN POWDER</Description>
+        <Cost>12.0732</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>ea</CaseUOM>
+        <PakQty>2.267</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3624" active="Y" keyItem="Y" actualize="N">
+        <Description>CHILI RED PEPPER CRUSHED</Description>
+        <Cost>10.2161</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>ea</CaseUOM>
+        <PakQty>2.267</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3223" active="Y" keyItem="Y" actualize="N">
+        <Description>COCONUT MILK 17/19% MILK FAT</Description>
+        <Cost>3.0710</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>LG CAN</CaseUOM>
+        <PakQty>2.840</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="490">OK - STORES AISLE #2</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3629" active="Y" keyItem="Y" actualize="N">
+        <Description>CORIANDER GROUND</Description>
+        <Cost>0.2105</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>16.000</PakQty>
+        <PakUOM>oz</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4978" active="Y" keyItem="Y" actualize="N">
+        <Description>CORN KERNEL WHOLE GRADE A</Description>
+        <Cost>3.3108</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>bag</CaseUOM>
+        <PakQty>2.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>PRICE DECREASE &amp; CODE CHANGE FROM 6909617 OCT2017</Comments>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="302">OK - FREEZER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3630" active="Y" keyItem="Y" actualize="N">
+        <Description>CUMIN SEED GROUND</Description>
+        <Cost>0.0121</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>454.000</PakQty>
+        <PakUOM>oz</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-2156" active="Y" keyItem="Y" actualize="N">
+        <Description>EGG LIQ WHL FRSH KOSHER ESL BG</Description>
+        <Cost>3.0520</Cost>
+        <CaseQty>2.000</CaseQty>
+        <CaseUOM>bag</CaseUOM>
+        <PakQty>10.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="9">DAIRY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="301">OK - DAIRY COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-1120" active="Y" keyItem="Y" actualize="N">
+        <Description>FLATBREAD NAP 10X5IN T/S FZN</Description>
+        <Cost>0.9072</Cost>
+        <CaseQty>18.000</CaseQty>
+        <CaseUOM>CT</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>CT</PakUOM>
+        <Comments/>
+        <InventoryGroup id="11">BREAD</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="302">OK - FREEZER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4657" active="Y" keyItem="Y" actualize="N">
+        <Description>GARLIC PEELED</Description>
+        <Cost>5.2400</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments>PRICE DECREASE FROM $17.10 TO $10.85 JULY 2018 VW</Comments>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3632" active="Y" keyItem="Y" actualize="N">
+        <Description>GARLIC POWDER</Description>
+        <Cost>0.0153</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>454.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-51440" active="Y" keyItem="Y" actualize="Y">
+        <Description>GHOST NUTRITION OIL</Description>
+        <Cost>0</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>g</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="117">FOOD</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-9685" active="Y" keyItem="Y" actualize="N">
+        <Description>GINGER PEELED</Description>
+        <Cost>8.8500</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4660" active="Y" keyItem="Y" actualize="N">
+        <Description>GINGER PEELED</Description>
+        <Cost>3.5400</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-2311" active="Y" keyItem="Y" actualize="N">
+        <Description>HAM PROSCIUTTO BNLS</Description>
+        <Cost>25.2900</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="23">DELI &amp; PREPARED MEAT</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="304">OK - MEAT COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4508" active="Y" keyItem="Y" actualize="N">
+        <Description>HERB BASIL BC</Description>
+        <Cost>15.2500</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4341" active="Y" keyItem="Y" actualize="N">
+        <Description>HERB CILANTRO BUNCH 30CT</Description>
+        <Cost>1.0517</Cost>
+        <CaseQty>30.000</CaseQty>
+        <CaseUOM>CT</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>CT</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4695" active="Y" keyItem="Y" actualize="N">
+        <Description>HERB ITALIAN PARSLEY BC</Description>
+        <Cost>1.0817</Cost>
+        <CaseQty>30.000</CaseQty>
+        <CaseUOM>CT</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4708" active="Y" keyItem="Y" actualize="N">
+        <Description>HERB LEMON GRASS IM</Description>
+        <Cost>2.3250</Cost>
+        <CaseQty>40.000</CaseQty>
+        <CaseUOM>ea</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="302">OK - FREEZER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4767" active="Y" keyItem="Y" actualize="N">
+        <Description>HERB OREGANO (Calmshell)BC</Description>
+        <Cost>1.1125</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>16.000</PakQty>
+        <PakUOM>oz</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4772" active="Y" keyItem="Y" actualize="N">
+        <Description>HERB PARSLEY MX</Description>
+        <Cost>0.9333</Cost>
+        <CaseQty>3.000</CaseQty>
+        <CaseUOM>BUNCH</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>BUNCH</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3321" active="Y" keyItem="Y" actualize="N">
+        <Description>HONEY LIQUID SQUEEZE Bott</Description>
+        <Cost>10.8400</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>PRICE INCREASE 9/17 &amp; CODE CHANGE FROM 1054784 10/17</Comments>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="493">OK - STORES AISLE #5</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-1813" active="Y" keyItem="Y" actualize="N">
+        <Description>JUICE LEMON FRESH 32Z</Description>
+        <Cost>0.1301</Cost>
+        <CaseQty>16.000</CaseQty>
+        <CaseUOM>bottle</CaseUOM>
+        <PakQty>32.000</PakQty>
+        <PakUOM>fl oz</PakUOM>
+        <Comments>PRICE INCREASE JANUARY 2019</Comments>
+        <InventoryGroup id="20">BAKING-RAW INGREDIENTS</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="301">OK - DAIRY COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-6443" active="Y" keyItem="Y" actualize="N">
+        <Description>JUICE LIME FRESH 16X32oz</Description>
+        <Cost>0.1313</Cost>
+        <CaseQty>16.000</CaseQty>
+        <CaseUOM>bottle</CaseUOM>
+        <PakQty>32.000</PakQty>
+        <PakUOM>fl oz</PakUOM>
+        <Comments/>
+        <InventoryGroup id="20">BAKING-RAW INGREDIENTS</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="301">OK - DAIRY COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-1820" active="Y" keyItem="Y" actualize="N">
+        <Description>JUICE ORANGE UNSWEETENED TETRA</Description>
+        <Cost>1.7083</Cost>
+        <CaseQty>12.000</CaseQty>
+        <CaseUOM>L</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="2">BEVERAGE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="490">OK - STORES AISLE #2</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-1821" active="Y" keyItem="Y" actualize="N">
+        <Description>JUICE PINEAPPLE TETRA</Description>
+        <Cost>0.0018</Cost>
+        <CaseQty>12.000</CaseQty>
+        <CaseUOM>bottle</CaseUOM>
+        <PakQty>960.000</PakQty>
+        <PakUOM>ml</PakUOM>
+        <Comments>PRICE DECREASE 10/17</Comments>
+        <InventoryGroup id="2">BEVERAGE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="490">OK - STORES AISLE #2</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-13254" active="Y" keyItem="Y" actualize="N">
+        <Description>KALE BABY GREEN</Description>
+        <Cost>12.2750</Cost>
+        <CaseQty>2.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-11312" active="Y" keyItem="Y" actualize="N">
+        <Description>LEAF MAKRUT LIME</Description>
+        <Cost>1.8813</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>16.000</PakQty>
+        <PakUOM>oz</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="302">OK - FREEZER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4703" active="Y" keyItem="Y" actualize="N">
+        <Description>LEEKS BC</Description>
+        <Cost>1.7400</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4463" active="Y" keyItem="Y" actualize="N">
+        <Description>LETTUCE ARUGULA (WILD ORG)US</Description>
+        <Cost>7.3000</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4712" active="Y" keyItem="Y" actualize="N">
+        <Description>LIMES MX</Description>
+        <Cost>0.5418</Cost>
+        <CaseQty>140.000</CaseQty>
+        <CaseUOM>CT</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>CT</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3348" active="Y" keyItem="Y" actualize="N">
+        <Description>MAYONNAISE 1/2 FAT TFC</Description>
+        <Cost>4.1625</Cost>
+        <CaseQty>2.000</CaseQty>
+        <CaseUOM>4L</CaseUOM>
+        <PakQty>4.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="490">OK - STORES AISLE #2</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-2220" active="Y" keyItem="Y" actualize="N">
+        <Description>MILK 2% 20L TUBE - BAG</Description>
+        <Cost>1.5165</Cost>
+        <CaseQty>20.000</CaseQty>
+        <CaseUOM>L</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="9">DAIRY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="296">OK - SERVE BEV COOL</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-5006" active="Y" keyItem="Y" actualize="N">
+        <Description>MIX VEGETABLE 5 VEG GRADE A</Description>
+        <Cost>2.8733</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>bag</CaseUOM>
+        <PakQty>2.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4731" active="Y" keyItem="Y" actualize="N">
+        <Description>MUSHROOMS FOODSERVICE BC</Description>
+        <Cost>1.8550</Cost>
+        <CaseQty>10.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3089" active="Y" keyItem="Y" actualize="N">
+        <Description>NOODLES STEAMED DRIED BULK</Description>
+        <Cost>1.6720</Cost>
+        <CaseQty>25.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="302">OK - FREEZER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3638" active="Y" keyItem="Y" actualize="N">
+        <Description>NUTMEG GROUND SHAKER TFC</Description>
+        <Cost>0.0545</Cost>
+        <CaseQty>8.000</CaseQty>
+        <CaseUOM>each</CaseUOM>
+        <PakQty>454.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3386" active="Y" keyItem="Y" actualize="Y">
+        <Description>OIL CANOLA HI LO BOX TFC</Description>
+        <Cost>2.0607</Cost>
+        <CaseQty>17.300</CaseQty>
+        <CaseUOM>L</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments>REPLACED 3955197 APR 2018</Comments>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3387" active="Y" keyItem="Y" actualize="N">
+        <Description>OIL CANOLA OLIVE OIL BLEND TFC</Description>
+        <Cost>3.8206</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>can</CaseUOM>
+        <PakQty>3.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments>4335805</Comments>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3388" active="Y" keyItem="Y" actualize="Y">
+        <Description>OIL CANOLA ROMANO TFC</Description>
+        <Cost>1.8028</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>can</CaseUOM>
+        <PakQty>3.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-6006" active="Y" keyItem="Y" actualize="N">
+        <Description>OIL OLIVE EXTRA VIRGIN TFC</Description>
+        <Cost>11.5708</Cost>
+        <CaseQty>4.000</CaseQty>
+        <CaseUOM>can</CaseUOM>
+        <PakQty>3.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3392" active="Y" keyItem="Y" actualize="N">
+        <Description>OIL SESAME PURE</Description>
+        <Cost>0.0112</Cost>
+        <CaseQty>2.000</CaseQty>
+        <CaseUOM>pak</CaseUOM>
+        <PakQty>1650.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4745" active="Y" keyItem="Y" actualize="N">
+        <Description>ONION PEELED US</Description>
+        <Cost>0.4541</Cost>
+        <CaseQty>50.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3639" active="Y" keyItem="Y" actualize="N">
+        <Description>ONION POWDER</Description>
+        <Cost>0.0107</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>454.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments>REPLACED 3549297 APR 2018</Comments>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4742" active="Y" keyItem="Y" actualize="N">
+        <Description>ONIONS DICED 1/4 US&quot;</Description>
+        <Cost>2.7700</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4375" active="Y" keyItem="Y" actualize="N">
+        <Description>ONIONS GREEN 48 CT</Description>
+        <Cost>0.5792</Cost>
+        <CaseQty>48.000</CaseQty>
+        <CaseUOM>CT</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>CT</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4679" active="Y" keyItem="Y" actualize="N">
+        <Description>ONIONS GREEN MX</Description>
+        <Cost>0.9833</Cost>
+        <CaseQty>3.000</CaseQty>
+        <CaseUOM>BUNCH</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>BUNCH</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-17150" active="Y" keyItem="Y" actualize="N">
+        <Description>ONIONS JUMBO PEELED 5LB</Description>
+        <Cost>1.5800</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-6807" active="Y" keyItem="Y" actualize="N">
+        <Description>ONIONS RED 5LB</Description>
+        <Cost>1.1100</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4750" active="Y" keyItem="Y" actualize="N">
+        <Description>ONIONS RED PEELED</Description>
+        <Cost>0.7460</Cost>
+        <CaseQty>25.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4381" active="Y" keyItem="Y" actualize="N">
+        <Description>ONIONS YELLOW JUMBO</Description>
+        <Cost>0.9050</Cost>
+        <CaseQty>40.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3416" active="Y" keyItem="Y" actualize="N">
+        <Description>PASTA PENNE WHOLE WHEAT TFC</Description>
+        <Cost>1.8450</Cost>
+        <CaseQty>2.000</CaseQty>
+        <CaseUOM>bag</CaseUOM>
+        <PakQty>10.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments>BARILLA BRAND - FEB 2020</Comments>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-2850" active="Y" keyItem="Y" actualize="N">
+        <Description>PASTE ACHIOTE RED LA PERLA</Description>
+        <Cost>0.0293</Cost>
+        <CaseQty>1320.000</CaseQty>
+        <CaseUOM>g</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3428" active="Y" keyItem="Y" actualize="N">
+        <Description>PASTE CURRY GREEN THAI</Description>
+        <Cost>0.0050</Cost>
+        <CaseQty>12.000</CaseQty>
+        <CaseUOM>JUG</CaseUOM>
+        <PakQty>1000.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3245" active="Y" keyItem="Y" actualize="N">
+        <Description>PASTE CURRY RED</Description>
+        <Cost>0.0100</Cost>
+        <CaseQty>4.000</CaseQty>
+        <CaseUOM>jar</CaseUOM>
+        <PakQty>992.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments>farmet paste contains shrimp, GFS &amp; yik sun paste doesn&apos;t</Comments>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-16215" active="Y" keyItem="Y" actualize="N">
+        <Description>PASTE KOREAN HOT PEPPER</Description>
+        <Cost>9.8167</Cost>
+        <CaseQty>3.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-11813" active="Y" keyItem="Y" actualize="N">
+        <Description>PASTE TAMARIND</Description>
+        <Cost>0.0076</Cost>
+        <CaseQty>12.000</CaseQty>
+        <CaseUOM>jar</CaseUOM>
+        <PakQty>312.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3435" active="Y" keyItem="Y" actualize="N">
+        <Description>PASTE TOMATO LOCAL</Description>
+        <Cost>2.0323</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>LG CAN</CaseUOM>
+        <PakQty>2.840</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3643" active="Y" keyItem="Y" actualize="N">
+        <Description>PEPPER BLACK FINE TFC</Description>
+        <Cost>32.5011</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>each</CaseUOM>
+        <PakQty>2.267</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3642" active="Y" keyItem="Y" actualize="N">
+        <Description>PEPPER BLK COARSE GRD SHK</Description>
+        <Cost>0.0325</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>ea</CaseUOM>
+        <PakQty>2267.900</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3447" active="Y" keyItem="Y" actualize="N">
+        <Description>PEPPER CHIPOTLE IN ADOBO</Description>
+        <Cost>0.0152</Cost>
+        <CaseQty>12.000</CaseQty>
+        <CaseUOM>SM CAN</CaseUOM>
+        <PakQty>199.000</PakQty>
+        <PakUOM>ml</PakUOM>
+        <Comments>PRICE INCREASE 10/17</Comments>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-30504" active="Y" keyItem="Y" actualize="N">
+        <Description>PEPPER RED FLAKES KOREAN</Description>
+        <Cost>0.0209</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>each</CaseUOM>
+        <PakQty>500.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3646" active="Y" keyItem="Y" actualize="N">
+        <Description>PEPPER WHITE GROUND SHK</Description>
+        <Cost>0.0478</Cost>
+        <CaseQty>12.000</CaseQty>
+        <CaseUOM>ea</CaseUOM>
+        <PakQty>600.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-42230" active="Y" keyItem="Y" actualize="N">
+        <Description>PEPPERCORN BLACK STANDARD</Description>
+        <Cost>0.0220</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>454.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4785" active="Y" keyItem="Y" actualize="N">
+        <Description>PEPPERS GREEN</Description>
+        <Cost>1.7400</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4787" active="Y" keyItem="Y" actualize="N">
+        <Description>PEPPERS JALAPENO GREEN 10 LBS</Description>
+        <Cost>1.8050</Cost>
+        <CaseQty>10.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-5014" active="Y" keyItem="Y" actualize="N">
+        <Description>PEPPERS RED DCD GRADE A IQF</Description>
+        <Cost>3.5900</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>bag</CaseUOM>
+        <PakQty>2.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>PRICE DECREASE OCT2017, CODE CHANGE FROM 3676307 OCT2017</Comments>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="256">CK Frezzer</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4793" active="Y" keyItem="Y" actualize="N">
+        <Description>PEPPERS RED HH BC</Description>
+        <Cost>3.1591</Cost>
+        <CaseQty>11.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4795" active="Y" keyItem="Y" actualize="N">
+        <Description>PEPPERS SERRANO GREEN MX</Description>
+        <Cost>2.9000</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4796" active="Y" keyItem="Y" actualize="N">
+        <Description>PEPPERS THAI RED CHILI IM</Description>
+        <Cost>4.3500</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4797" active="Y" keyItem="Y" actualize="N">
+        <Description>PEPPERS YELLOW HH BC</Description>
+        <Cost>2.8364</Cost>
+        <CaseQty>11.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3458" active="Y" keyItem="Y" actualize="N">
+        <Description>PINEAPPLE PIZZA CUT L/S TFC</Description>
+        <Cost>2.3063</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>LG CAN</CaseUOM>
+        <PakQty>2.840</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3851" active="Y" keyItem="Y" actualize="N">
+        <Description>PORK BUTT BNLS 1/4 COV FR</Description>
+        <Cost>5.7902</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>ALSO CODE #53987 WHEN BACK ORDERED</Comments>
+        <InventoryGroup id="5">MEAT</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="304">OK - MEAT COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3856" active="Y" keyItem="Y" actualize="N">
+        <Description>PORK LOIN BNLS S/CUT COVFR</Description>
+        <Cost>6.4903</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>Code changed from 50685 09/2018</Comments>
+        <InventoryGroup id="5">MEAT</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="304">OK - MEAT COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3476" active="Y" keyItem="Y" actualize="N">
+        <Description>RICE BASMATI</Description>
+        <Cost>3.4210</Cost>
+        <CaseQty>18.100</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-36672" active="Y" keyItem="Y" actualize="N">
+        <Description>RICE BASMATI BROWN U.S.</Description>
+        <Cost>1.7676</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>ea</CaseUOM>
+        <PakQty>25.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="493">OK - STORES AISLE #5</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3477" active="Y" keyItem="Y" actualize="N">
+        <Description>RICE BROWN WHL GRAIN</Description>
+        <Cost>1.3915</Cost>
+        <CaseQty>20.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments>PRICE CHANGE JANUARY 2019</Comments>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3478" active="Y" keyItem="Y" actualize="N">
+        <Description>RICE JASMINE</Description>
+        <Cost>0.7023</Cost>
+        <CaseQty>40.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments>Item Code 1054880 - is on a pricing contract dec 31 2020</Comments>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="493">OK - STORES AISLE #5</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-58278" active="Y" keyItem="Y" actualize="N">
+        <Description>SAL ATL FLT KUTERRA OW S/ONVAC</Description>
+        <Cost>11.9900</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="14">SEAFOOD</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="302">OK - FREEZER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-6026" active="Y" keyItem="Y" actualize="N">
+        <Description>SALT KOSHER WINDSOR</Description>
+        <Cost>0.0030</Cost>
+        <CaseQty>16.320</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1000.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments>PRICE CHANGED DECEMBER 2018</Comments>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-12176" active="Y" keyItem="Y" actualize="N">
+        <Description>SALT SEA COARSE KOSHER</Description>
+        <Cost>2.0925</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>CT</CaseUOM>
+        <PakQty>2.270</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3511" active="Y" keyItem="Y" actualize="N">
+        <Description>SAUCE CHILI CAN</Description>
+        <Cost>2.9261</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>LG CAN</CaseUOM>
+        <PakQty>2.840</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-9379" active="Y" keyItem="Y" actualize="N">
+        <Description>SAUCE CHILI HOT SRIRACHA 740ML</Description>
+        <Cost>4.9775</Cost>
+        <CaseQty>12.000</CaseQty>
+        <CaseUOM>bottle</CaseUOM>
+        <PakQty>0.740</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-45114" active="Y" keyItem="Y" actualize="N">
+        <Description>SAUCE FISH VEGETARIAN 700ML</Description>
+        <Cost>0.2198</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>bottle</CaseUOM>
+        <PakQty>23.700</PakQty>
+        <PakUOM>fl oz</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="490">OK - STORES AISLE #2</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-10864" active="Y" keyItem="Y" actualize="N">
+        <Description>SAUCE HOISIN GOLDEN DRAGON</Description>
+        <Cost>2.6925</Cost>
+        <CaseQty>2.000</CaseQty>
+        <CaseUOM>JUG</CaseUOM>
+        <PakQty>4.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-2697" active="Y" keyItem="Y" actualize="N">
+        <Description>SAUCE PESTO NO NUT</Description>
+        <Cost>0.0176</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>bag</CaseUOM>
+        <PakQty>454.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="302">OK - FREEZER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-47774" active="Y" keyItem="Y" actualize="N">
+        <Description>SAUCE SOY LOW SOD G/FREE</Description>
+        <Cost>7.9489</Cost>
+        <CaseQty>11.340</CaseQty>
+        <CaseUOM>L</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments>TAMARI SOY SAUCE KIKKOMAN</Comments>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-22026" active="Y" keyItem="Y" actualize="N">
+        <Description>SAUCE TABASCO GREEN PEPPER</Description>
+        <Cost>25.2698</Cost>
+        <CaseQty>2.000</CaseQty>
+        <CaseUOM>JUG</CaseUOM>
+        <PakQty>1.890</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-50575" active="Y" keyItem="Y" actualize="N">
+        <Description>SAUSAGE ITAL CRUMBLE CKD FRZ</Description>
+        <Cost>7.0683</Cost>
+        <CaseQty>2.000</CaseQty>
+        <CaseUOM>bag</CaseUOM>
+        <PakQty>2.270</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="5">MEAT</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3312" active="Y" keyItem="Y" actualize="N">
+        <Description>SEED FENNEL WHOLE</Description>
+        <Cost>0.3625</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>pak</CaseUOM>
+        <PakQty>16.000</PakQty>
+        <PakUOM>oz</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3590" active="Y" keyItem="Y" actualize="N">
+        <Description>SEED SESAME RST - NO SALT TFC</Description>
+        <Cost>10.4467</Cost>
+        <CaseQty>3.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="18">SPICES</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4894" active="Y" keyItem="Y" actualize="N">
+        <Description>SHALLOTS PEELED</Description>
+        <Cost>5.6700</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-17593" active="Y" keyItem="Y" actualize="N">
+        <Description>SHRIMPMT 125/175 MSC</Description>
+        <Cost>11.3700</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments>OCEANWISE</Comments>
+        <InventoryGroup id="14">SEAFOOD</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="302">OK - FREEZER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-2254" active="Y" keyItem="Y" actualize="N">
+        <Description>SOUR CREAM CORR BOX 4L</Description>
+        <Cost>4.1025</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>4L</CaseUOM>
+        <PakQty>4.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="9">DAIRY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="301">OK - DAIRY COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-19610" active="Y" keyItem="Y" actualize="N">
+        <Description>SPICE CORIANDER WHOLE</Description>
+        <Cost>0.2363</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>ea</CaseUOM>
+        <PakQty>80.000</PakQty>
+        <PakUOM>oz</PakUOM>
+        <Comments/>
+        <InventoryGroup id="20">BAKING-RAW INGREDIENTS</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4896" active="Y" keyItem="Y" actualize="N">
+        <Description>SPINACH WASHED NO STEM US</Description>
+        <Cost>4.0800</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>bag</CaseUOM>
+        <PakQty>2.500</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments>PRICE UPDATED JULY 2018 - VW</Comments>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4509" active="Y" keyItem="Y" actualize="N">
+        <Description>SPROUTS BEAN BC</Description>
+        <Cost>1.1700</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="456">OK - STN - CUSTOM</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-6820" active="Y" keyItem="Y" actualize="N">
+        <Description>STARCH CORN</Description>
+        <Cost>3.3040</Cost>
+        <CaseQty>5.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="490">OK - STORES AISLE #2</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-6028" active="Y" keyItem="Y" actualize="N">
+        <Description>SUGAR BROWN DEMERARA</Description>
+        <Cost>1.8935</Cost>
+        <CaseQty>20.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3658" active="Y" keyItem="Y" actualize="N">
+        <Description>SUGAR GOLDEN YEL 20KG</Description>
+        <Cost>1.4900</Cost>
+        <CaseQty>20.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>REPLACED 3560437 APR 2018</Comments>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3660" active="Y" keyItem="Y" actualize="N">
+        <Description>SUGAR GRANULATED FINE</Description>
+        <Cost>1.3130</Cost>
+        <CaseQty>10.000</CaseQty>
+        <CaseUOM>Kg</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>Replacing Item Code 3238807</Comments>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-35336" active="Y" keyItem="Y" actualize="N">
+        <Description>SUGAR PALM</Description>
+        <Cost>1.6529</Cost>
+        <CaseQty>24.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="299">OK - STORES AISLE #1</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-7388" active="Y" keyItem="Y" actualize="N">
+        <Description>TOFU EXTRA FIRM</Description>
+        <Cost>6.1381</Cost>
+        <CaseQty>12.000</CaseQty>
+        <CaseUOM>CT</CaseUOM>
+        <PakQty>0.350</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="301">OK - DAIRY COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4920" active="Y" keyItem="Y" actualize="N">
+        <Description>TOMATILLOS</Description>
+        <Cost>1.7700</Cost>
+        <CaseQty>10.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3676" active="Y" keyItem="Y" actualize="N">
+        <Description>TOMATO CRUSHED EXTRA HVY TFC</Description>
+        <Cost>1.9255</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>LG CAN</CaseUOM>
+        <PakQty>2.840</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments>DISCONTINUED ITEM #3584605 FEB 2019 - REPLACEMENT</Comments>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-17159" active="Y" keyItem="Y" actualize="N">
+        <Description>TOMATOES GRAPE 10LB</Description>
+        <Cost>3.6950</Cost>
+        <CaseQty>10.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4933" active="Y" keyItem="Y" actualize="N">
+        <Description>TOMATOES ROMA MX</Description>
+        <Cost>1.0080</Cost>
+        <CaseQty>25.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-1152" active="Y" keyItem="Y" actualize="N">
+        <Description>TORTILLA FLOUR W/ WHEAT 12IN</Description>
+        <Cost>0.2977</Cost>
+        <CaseQty>12.000</CaseQty>
+        <CaseUOM>pak</CaseUOM>
+        <PakQty>10.000</PakQty>
+        <PakUOM>CT</PakUOM>
+        <Comments>FRESCA</Comments>
+        <InventoryGroup id="19">BAKED GOODS</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="302">OK - FREEZER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3688" active="Y" keyItem="Y" actualize="N">
+        <Description>TORTILLA WHT CORN TAQ 4IN FZ</Description>
+        <Cost>0.0434</Cost>
+        <CaseQty>11.000</CaseQty>
+        <CaseUOM>bag</CaseUOM>
+        <PakQty>60.000</PakQty>
+        <PakUOM>CT</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="302">OK - FREEZER</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-9382" active="Y" keyItem="Y" actualize="N">
+        <Description>VINEGAR APPLE CIDER PURE</Description>
+        <Cost>1.7660</Cost>
+        <CaseQty>2.000</CaseQty>
+        <CaseUOM>bottle</CaseUOM>
+        <PakQty>5.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3692" active="Y" keyItem="Y" actualize="N">
+        <Description>VINEGAR BALSAMIC PAIL</Description>
+        <Cost>3.1820</Cost>
+        <CaseQty>2.000</CaseQty>
+        <CaseUOM>pail</CaseUOM>
+        <PakQty>5.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3695" active="Y" keyItem="Y" actualize="N">
+        <Description>VINEGAR RED WINE TFC</Description>
+        <Cost>1.9920</Cost>
+        <CaseQty>2.000</CaseQty>
+        <CaseUOM>pail</CaseUOM>
+        <PakQty>5.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments>CODE CHANGE FROM 3467037 OCT2017</Comments>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3696" active="Y" keyItem="Y" actualize="N">
+        <Description>VINEGAR RICE</Description>
+        <Cost>0.0075</Cost>
+        <CaseQty>12.000</CaseQty>
+        <CaseUOM>bottle</CaseUOM>
+        <PakQty>710.000</PakQty>
+        <PakUOM>ml</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-3697" active="Y" keyItem="Y" actualize="N">
+        <Description>VINEGAR SHERRY JEREZ</Description>
+        <Cost>5.3650</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>L</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-5983" active="Y" keyItem="N" actualize="N">
+        <Description>WATER FOR RECIPES</Description>
+        <Cost>0</Cost>
+        <CaseQty>1.000</CaseQty>
+        <CaseUOM>L</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="2">BEVERAGE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-7949" active="Y" keyItem="Y" actualize="N">
+        <Description>WINE COOKING MIRIN</Description>
+        <Cost>6.5944</Cost>
+        <CaseQty>6.000</CaseQty>
+        <CaseUOM>bottle</CaseUOM>
+        <PakQty>1.800</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments>order code: 1224270</Comments>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="491">OK - STORES AISLE #3</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+    <Item id="I-4962" active="Y" keyItem="Y" actualize="N">
+        <Description>ZUCCHINI BC</Description>
+        <Cost>0.9680</Cost>
+        <CaseQty>25.000</CaseQty>
+        <CaseUOM>lb</CaseUOM>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="4">PRODUCE</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <Location id="449">OK - ARCHIVE</Location>
+        <ExpenseAccount id="22" ref="SC0070" type="C" locked="N">COS-Food NoTax</ExpenseAccount>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+    </Item>
+</Items>

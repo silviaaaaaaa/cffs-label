@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Prods>
+    <Prod id="R-55168" active="Y" special="N">
+        <Description>HS|Pasta Bar Plant Based</Description>
+        <Barcode/>
+        <Cost>3.6070</Cost>
+        <Comments/>
+        <SalesGroup id="332">OK - SQUARE MEAL</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.99</Price>
+        <PLU num="32475">SQ PASTA BAR PLANT BASED</PLU>
+    </Prod>
+    <Prod id="R-55166" active="Y" special="N">
+        <Description>HS|Pasta Bar w Protien</Description>
+        <Barcode/>
+        <Cost>5.1790</Cost>
+        <Comments/>
+        <SalesGroup id="332">OK - SQUARE MEAL</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>12.49</Price>
+        <PLU num="32476">SQ PASTA BAR WITH PROTIEN</PLU>
+    </Prod>
+    <Prod id="R-45419" active="Y" special="N">
+        <Description>S&amp;S|Dan Dan Noodle|Pork</Description>
+        <Barcode/>
+        <Cost>1.4403</Cost>
+        <Comments/>
+        <SalesGroup id="328">OK - GLOBAL KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.99</Price>
+        <PLU num="32313">DAN DAN NOODLE PORK</PLU>
+    </Prod>
+    <Prod id="R-44866" active="Y" special="N">
+        <Description>S&amp;S|Dan Dan Noodle|Tofu</Description>
+        <Barcode/>
+        <Cost>1.6714</Cost>
+        <Comments/>
+        <SalesGroup id="328">OK - GLOBAL KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.49</Price>
+        <PLU num="32463">DAN DAN NOODLE TOFU</PLU>
+    </Prod>
+    <Prod id="R-41308" active="Y" special="N">
+        <Description>S&amp;S|Miso Ramen with Egg</Description>
+        <Barcode/>
+        <Cost>2.5819</Cost>
+        <Comments/>
+        <SalesGroup id="328">OK - GLOBAL KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.99</Price>
+        <PLU num="32312">MISO RAMEN WITH EGG</PLU>
+    </Prod>
+    <Prod id="R-43886" active="Y" special="N">
+        <Description>SAND|Falafel</Description>
+        <Barcode/>
+        <Cost>2.7123</Cost>
+        <Comments/>
+        <SalesGroup id="331">OK - SANDWICH KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.79</Price>
+        <PLU num="25561">SANDWICH FALAFEL</PLU>
+    </Prod>
+    <Prod id="R-43880" active="Y" special="N">
+        <Description>SAND|Ham</Description>
+        <Barcode/>
+        <Cost>2.8784</Cost>
+        <Comments/>
+        <SalesGroup id="331">OK - SANDWICH KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.99</Price>
+        <PLU num="25557">SANDWICH - HAM</PLU>
+    </Prod>
+    <Prod id="R-43885" active="Y" special="N">
+        <Description>SAND|Roast Beef</Description>
+        <Barcode/>
+        <Cost>2.8039</Cost>
+        <Comments/>
+        <SalesGroup id="331">OK - SANDWICH KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.99</Price>
+        <PLU num="25560">SANDWICH - ROAST BEEF</PLU>
+    </Prod>
+    <Prod id="R-43884" active="Y" special="N">
+        <Description>SAND|Turkey</Description>
+        <Barcode/>
+        <Cost>3.2866</Cost>
+        <Comments/>
+        <SalesGroup id="331">OK - SANDWICH KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>10.99</Price>
+        <PLU num="25559">SANDWICH - TURKEY</PLU>
+    </Prod>
+    <Prod id="R-28374" active="Y" special="N">
+        <Description>SAND|Veg</Description>
+        <Barcode/>
+        <Cost>2.2064</Cost>
+        <Comments/>
+        <SalesGroup id="331">OK - SANDWICH KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.29</Price>
+        <PLU num="19006">SANDWICH VEG BASE</PLU>
+    </Prod>
+    <Prod id="R-43213" active="Y" special="N">
+        <Description>SMOOTHIE|MANGO BLISS|16oz</Description>
+        <Barcode/>
+        <Cost>1.6803</Cost>
+        <Comments/>
+        <SalesGroup id="363">OK - GRAB &amp; GO</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>5.70</Price>
+        <PLU num="32865">MANGO BLISS SMOOTHIE</PLU>
+    </Prod>
+    <Prod id="R-29556" active="Y" special="N">
+        <Description>SMOOTHIE|WILD BERRY|16oz</Description>
+        <Barcode/>
+        <Cost>2.3054</Cost>
+        <Comments/>
+        <SalesGroup id="363">OK - GRAB &amp; GO</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>5.70</Price>
+        <PLU num="32866">WILD BERRY SMOOTHIE</PLU>
+    </Prod>
+    <Prod id="R-57340" active="Y" special="N">
+        <Description>SQR|Bangers &amp; Mash+1</Description>
+        <Barcode/>
+        <Cost>3.2984</Cost>
+        <Comments/>
+        <SalesGroup id="332">OK - SQUARE MEAL</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.99</Price>
+        <PLU num="32205">SQ THURS BANGER SAUSAGE +1</PLU>
+    </Prod>
+    <Prod id="R-28323" active="Y" special="N">
+        <Description>SQR|Butter Chicken</Description>
+        <Barcode/>
+        <Cost>3.0342</Cost>
+        <Comments/>
+        <SalesGroup id="332">OK - SQUARE MEAL</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.99</Price>
+        <PLU num="24227">SQ WED BUTTER CHICKEN</PLU>
+    </Prod>
+    <Prod id="R-37050" active="Y" special="N">
+        <Description>SQR|ButterChicken+1</Description>
+        <Barcode/>
+        <Cost>3.5873</Cost>
+        <Comments/>
+        <SalesGroup id="332">OK - SQUARE MEAL</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>11.99</Price>
+        <PLU num="24248">SQ WED BUTTER CHICKEN +1</PLU>
+    </Prod>
+    <Prod id="R-37051" active="Y" special="N">
+        <Description>SQR|ButterChicken+2</Description>
+        <Barcode/>
+        <Cost>4.1374</Cost>
+        <Comments/>
+        <SalesGroup id="332">OK - SQUARE MEAL</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>13.99</Price>
+        <PLU num="24249">SQ WED BUTTER CHICKEN +2</PLU>
+    </Prod>
+    <Prod id="R-28324" active="Y" special="N">
+        <Description>SQR|GarlicNaanBread</Description>
+        <Barcode/>
+        <Cost>0.4097</Cost>
+        <Comments/>
+        <SalesGroup id="332">OK - SQUARE MEAL</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>2.25</Price>
+        <PLU num="22626">SQ GARLIC NAAN</PLU>
+    </Prod>
+    <Prod id="R-38664" active="Y" special="N">
+        <Description>SQR|Greek Chicken Skewer +1</Description>
+        <Barcode/>
+        <Cost>3.3118</Cost>
+        <Comments/>
+        <SalesGroup id="332">OK - SQUARE MEAL</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.19</Price>
+        <PLU num="20644">SQ MON CHICKEN SKEWER + 1</PLU>
+    </Prod>
+    <Prod id="R-38665" active="Y" special="N">
+        <Description>SQR|Greek Chicken Skewer +2</Description>
+        <Barcode/>
+        <Cost>4.1901</Cost>
+        <Comments/>
+        <SalesGroup id="332">OK - SQUARE MEAL</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>11.99</Price>
+        <PLU num="20645">SQ MON CHICKEN SKEWER + 2</PLU>
+    </Prod>
+    <Prod id="R-42369" active="Y" special="N">
+        <Description>SQR|PaneerTikaMasala+1</Description>
+        <Barcode/>
+        <Cost>1.9241</Cost>
+        <Comments/>
+        <SalesGroup id="332">OK - SQUARE MEAL</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>10.49</Price>
+        <PLU num="25176">SQ WED PANEER TIKKA MASALA +1</PLU>
+    </Prod>
+</Prods>

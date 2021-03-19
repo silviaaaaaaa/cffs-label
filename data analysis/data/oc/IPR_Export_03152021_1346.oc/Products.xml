@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Prods>
+    <Prod id="R-53084" active="Y" special="N">
+        <Description>SQR|Ultimate Veg Burger</Description>
+        <Barcode/>
+        <Cost>2.9859</Cost>
+        <Comments>Chef David Station Take Over</Comments>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>10.99</Price>
+        <PLU num="31956">VEG BURGER</PLU>
+    </Prod>
+    <Prod id="R-28396" active="Y" special="N">
+        <Description>SQR|Vegetarian Lasagna 250g</Description>
+        <Barcode/>
+        <Cost>1.1947</Cost>
+        <Comments/>
+        <SalesGroup id="332">OK - SQUARE MEAL</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.99</Price>
+        <PLU num="20634">SQ TUES VEGETABLE LASAGNA</PLU>
+    </Prod>
+    <Prod id="R-44779" active="Y" special="N">
+        <Description>TRUCK|Chick Wings|W/O Gluten</Description>
+        <Barcode/>
+        <Cost>3.7895</Cost>
+        <Comments>July 2018 (Fiscal 19)</Comments>
+        <SalesGroup id="652">OK - FOOD TRUCK(Food)</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>13.00</Price>
+        <PLU num="33107">OKFT - CRISPY CHICKEN WINGS</PLU>
+    </Prod>
+    <Prod id="R-55819" active="Y" special="N">
+        <Description>TRUCK|Fish &amp; Chips|2pc</Description>
+        <Barcode/>
+        <Cost>3.0266</Cost>
+        <Comments/>
+        <SalesGroup id="652">OK - FOOD TRUCK(Food)</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>12.00</Price>
+        <PLU num="16159">SOF - FISH &amp; CHIPS</PLU>
+    </Prod>
+    <Prod id="R-60550" active="Y" special="N">
+        <Description>TRUCK|Mac &amp; Cheese</Description>
+        <Barcode/>
+        <Cost>3.1381</Cost>
+        <Comments/>
+        <SalesGroup id="652">OK - FOOD TRUCK(Food)</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>10.00</Price>
+        <PLU num="32947">OKFT - MAC &amp; CHEESE</PLU>
+    </Prod>
+    <Prod id="R-55117" active="Y" special="N">
+        <Description>VEG|BananaAlmond Overnite Oats</Description>
+        <Barcode/>
+        <Cost>1.7104</Cost>
+        <Comments/>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>6.99</Price>
+        <PLU num="33027">BANANA ALMOND OVERNIGHT OATS</PLU>
+    </Prod>
+    <Prod id="R-27275" active="Y" special="N">
+        <Description>VEG|Black Bean Breakfast Bowl</Description>
+        <Barcode/>
+        <Cost>1.6086</Cost>
+        <Comments/>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.99</Price>
+        <PLU num="19145">SWT POTATO BLK BEAN BOWL</PLU>
+    </Prod>
+    <Prod id="R-43738" active="Y" special="N">
+        <Description>VEG|BOWL|DobanjiangNoodle</Description>
+        <Barcode/>
+        <Cost>1.6417</Cost>
+        <Comments/>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>7.99</Price>
+        <PLU num="27511">DOBANJIANG NOODLE BOWL</PLU>
+    </Prod>
+    <Prod id="R-56509" active="Y" special="N">
+        <Description>VEG|Breakfast Quesadilla</Description>
+        <Barcode/>
+        <Cost>2.6422</Cost>
+        <Comments/>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.79</Price>
+        <PLU num="31984">BREAKFAST QUESADILLA</PLU>
+    </Prod>
+    <Prod id="R-32886" active="Y" special="N">
+        <Description>VEG|Curried Chickpea Bowl</Description>
+        <Barcode/>
+        <Cost>1.9811</Cost>
+        <Comments/>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>7.99</Price>
+        <PLU num="20579">CURRIED CHICKPEA SALAD BOWL</PLU>
+    </Prod>
+    <Prod id="R-53342" active="Y" special="N">
+        <Description>VEG|Falafel Bowl</Description>
+        <Barcode/>
+        <Cost>2.6650</Cost>
+        <Comments>Leticia Pop Up Nov 8th</Comments>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.99</Price>
+        <PLU num="32196">FALAFEL BOWL</PLU>
+    </Prod>
+    <Prod id="R-58351" active="Y" special="N">
+        <Description>VEG|Harvest Pumpkin Pasta</Description>
+        <Barcode/>
+        <Cost>3.7046</Cost>
+        <Comments/>
+        <SalesGroup id="543">OK- VEGETARIAN KITCHEN FEATURE</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>10.99</Price>
+        <PLU num="32664">HARVESTY PUMPKIN PASTA</PLU>
+    </Prod>
+    <Prod id="R-48488" active="Y" special="N">
+        <Description>VEG|Huevos Rancheros</Description>
+        <Barcode/>
+        <Cost>0.7958</Cost>
+        <Comments/>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>3.99</Price>
+        <PLU num="27509">HUEVOS RANCHEROS 1 SERVING</PLU>
+    </Prod>
+    <Prod id="R-57098" active="Y" special="N">
+        <Description>VEG|Kale Wh Bean Quesadilla</Description>
+        <Barcode/>
+        <Cost>2.4113</Cost>
+        <Comments/>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.99</Price>
+        <PLU num="32198"/>
+    </Prod>
+    <Prod id="R-56696" active="Y" special="N">
+        <Description>VEG|Omelet|Mushroom Pesto</Description>
+        <Barcode/>
+        <Cost>2.0760</Cost>
+        <Comments/>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>7.99</Price>
+        <PLU num="31987">MUSHROOM PESTO OMELET</PLU>
+    </Prod>
+    <Prod id="R-50555" active="Y" special="N">
+        <Description>VEG|Omelet|Spinach Goat Cheese</Description>
+        <Barcode/>
+        <Cost>1.6493</Cost>
+        <Comments/>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>6.99</Price>
+        <PLU num="29225">SPINACH GOAT CHEESE OMELET</PLU>
+    </Prod>
+    <Prod id="R-27405" active="Y" special="N">
+        <Description>VEG|Southwest Bowl</Description>
+        <Barcode/>
+        <Cost>2.4021</Cost>
+        <Comments/>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.99</Price>
+        <PLU num="19106">SOUTHWEST BOWL</PLU>
+    </Prod>
+    <Prod id="R-55133" active="Y" special="N">
+        <Description>VEG|Spin Artichoke Quesadilla</Description>
+        <Barcode/>
+        <Cost>2.2450</Cost>
+        <Comments/>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.99</Price>
+        <PLU num="31958">SPINACH ARTICHOKE QUESADILLA</PLU>
+    </Prod>
+    <Prod id="R-60319" active="Y" special="N">
+        <Description>VEG|Spin Mush Avo Quesadilla</Description>
+        <Barcode/>
+        <Cost>3.2032</Cost>
+        <Comments/>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.79</Price>
+        <PLU num="32870">SPINACH MUSHROOM QUESADILLA</PLU>
+    </Prod>
+    <Prod id="R-27273" active="Y" special="N">
+        <Description>VEG|Toast|Avocado</Description>
+        <Barcode/>
+        <Cost>2.0567</Cost>
+        <Comments>Vegetarian Kitchen - OK 2017</Comments>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>6.29</Price>
+        <PLU num="19069">AVOCADO TOAST</PLU>
+    </Prod>
+</Prods>

@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Prods>
+    <Prod id="R-36666" active="Y" special="N">
+        <Description>FF|Bowl|Five Alarm</Description>
+        <Barcode/>
+        <Cost>2.2206</Cost>
+        <Comments/>
+        <SalesGroup id="543">OK- VEGETARIAN KITCHEN FEATURE</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>7.99</Price>
+        <PLU num="32309">FIVE ALARM BOWL</PLU>
+    </Prod>
+    <Prod id="R-36568" active="Y" special="N">
+        <Description>FF|Pasta|Spinach Avocado</Description>
+        <Barcode/>
+        <Cost>1.7066</Cost>
+        <Comments/>
+        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.99</Price>
+        <PLU num="32461">SPINACH AVOCADO PASTA</PLU>
+    </Prod>
+    <Prod id="R-50362" active="Y" special="N">
+        <Description>FLX|Bowl|Karaage Chicken</Description>
+        <Barcode/>
+        <Cost>3.0860</Cost>
+        <Comments/>
+        <SalesGroup id="638">OK - FLEX KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.99</Price>
+        <PLU num="32741">CHICKEN KARAAGE BOWL</PLU>
+    </Prod>
+    <Prod id="R-50360" active="Y" special="N">
+        <Description>FLX|Bowl|Salmon</Description>
+        <Barcode/>
+        <Cost>4.3323</Cost>
+        <Comments/>
+        <SalesGroup id="638">OK - FLEX KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>11.99</Price>
+        <PLU num="32569">SALMON BOWL</PLU>
+    </Prod>
+    <Prod id="R-50359" active="Y" special="N">
+        <Description>FLX|Bowl|Tuna Albacore</Description>
+        <Barcode/>
+        <Cost>3.6203</Cost>
+        <Comments/>
+        <SalesGroup id="638">OK - FLEX KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>12.99</Price>
+        <PLU num="32568">BC ALBACORE TUNA BOWL</PLU>
+    </Prod>
+    <Prod id="R-44362" active="Y" special="N">
+        <Description>FLX|Fried Cauliflower Bowl|Med</Description>
+        <Barcode/>
+        <Cost>2.8280</Cost>
+        <Comments/>
+        <SalesGroup id="328">OK - GLOBAL KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.99</Price>
+        <PLU num="32466">FRIED CAULIFLOWER BOWL</PLU>
+    </Prod>
+    <Prod id="R-44319" active="Y" special="N">
+        <Description>FLX|Side Quinoa Tabouleh Salad</Description>
+        <Barcode/>
+        <Cost>0.7044</Cost>
+        <Comments>May 2018 (F19)</Comments>
+        <SalesGroup id="138">FEAST</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>2.79</Price>
+        <PLU num="30496">QUINOA TABOULEH SALAD</PLU>
+    </Prod>
+    <Prod id="R-44583" active="Y" special="N">
+        <Description>FLX|Taco|Mojo pork</Description>
+        <Barcode/>
+        <Cost>1.2247</Cost>
+        <Comments>June 2018 (F19)</Comments>
+        <SalesGroup id="638">OK - FLEX KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>3.49</Price>
+        <PLU num="32552">MOJO PORK TACO</PLU>
+    </Prod>
+    <Prod id="R-30406" active="Y" special="N">
+        <Description>G&amp;G|Croissant|Multigrain|OK</Description>
+        <Barcode/>
+        <Cost>1.1157</Cost>
+        <Comments>par baked</Comments>
+        <SalesGroup id="363">OK - GRAB &amp; GO</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>2.75</Price>
+        <PLU num="20194">MULTIGRAIN CROISSANT</PLU>
+    </Prod>
+    <Prod id="R-32750" active="Y" special="N">
+        <Description>GLB|Chicken Adobo</Description>
+        <Barcode/>
+        <Cost>2.6894</Cost>
+        <Comments/>
+        <SalesGroup id="328">OK - GLOBAL KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.99</Price>
+        <PLU num="20581">CHICKEN ADOBO</PLU>
+    </Prod>
+    <Prod id="R-29391" active="Y" special="N">
+        <Description>GLB|Chicken Kung Pao</Description>
+        <Barcode/>
+        <Cost>2.5975</Cost>
+        <Comments/>
+        <SalesGroup id="328">OK - GLOBAL KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.99</Price>
+        <PLU num="22431">CHICKEN HUNAN KUNG PAO</PLU>
+    </Prod>
+    <Prod id="R-56893" active="Y" special="N">
+        <Description>GLB|Short Rib Papperdelle</Description>
+        <Barcode/>
+        <Cost>2.2532</Cost>
+        <Comments/>
+        <SalesGroup id="328">OK - GLOBAL KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.99</Price>
+        <PLU num="31989">SHORTRIB PAPPERADELLE</PLU>
+    </Prod>
+    <Prod id="R-37093" active="Y" special="N">
+        <Description>GLB|Spaghetti &amp; Meatballs</Description>
+        <Barcode/>
+        <Cost>2.2869</Cost>
+        <Comments>June 2018 (F19) | Adj&apos;d for salt in spaghetti water</Comments>
+        <SalesGroup id="328">OK - GLOBAL KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.99</Price>
+        <PLU num="22596">SPAGHETTI AND MEATBALLS</PLU>
+    </Prod>
+    <Prod id="R-33532" active="Y" special="N">
+        <Description>GLB|Sweet Chili Chicken</Description>
+        <Barcode/>
+        <Cost>1.8339</Cost>
+        <Comments/>
+        <SalesGroup id="328">OK - GLOBAL KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.99</Price>
+        <PLU num="24216">SWEET CHILI CHICKEN</PLU>
+    </Prod>
+    <Prod id="R-50700" active="Y" special="N">
+        <Description>GLB|Teriyaki Tofu Bowl</Description>
+        <Barcode/>
+        <Cost>3.9518</Cost>
+        <Comments/>
+        <SalesGroup id="328">OK - GLOBAL KITCHEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>10.99</Price>
+        <PLU num="28440">TERIYAKI TOFU RICE BOWL</PLU>
+    </Prod>
+    <Prod id="R-51190" active="Y" special="N">
+        <Description>GRL|Bagel E.A.L.T Bfast Sandw</Description>
+        <Barcode/>
+        <Cost>1.9234</Cost>
+        <Comments/>
+        <SalesGroup id="330">OK - GRILL KITCHEN BREAKFAST</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>5.99</Price>
+        <PLU num="32448">BAGEL E.A.L.T. SANDWICH</PLU>
+    </Prod>
+    <Prod id="R-28280" active="Y" special="N">
+        <Description>GRL|Breakfast Entree</Description>
+        <Barcode/>
+        <Cost>2.3828</Cost>
+        <Comments>June 2018 (F19) - Grill</Comments>
+        <SalesGroup id="330">OK - GRILL KITCHEN BREAKFAST</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.29</Price>
+        <PLU num="18969">OK BREAKFAST</PLU>
+    </Prod>
+    <Prod id="R-50368" active="Y" special="N">
+        <Description>GRL|BreakfastCroissant</Description>
+        <Barcode/>
+        <Cost>2.6106</Cost>
+        <Comments>June 2018 (F19) - Grill</Comments>
+        <SalesGroup id="330">OK - GRILL KITCHEN BREAKFAST</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.99</Price>
+        <PLU num="29157">BREAKFAST CROISSANT</PLU>
+    </Prod>
+    <Prod id="R-35714" active="Y" special="N">
+        <Description>GRL|Burger|BlackenedChicken</Description>
+        <Barcode/>
+        <Cost>2.6927</Cost>
+        <Comments/>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>10.99</Price>
+        <PLU num="21794">BLACKENED CHICKEN BURGER</PLU>
+    </Prod>
+    <Prod id="R-28251" active="Y" special="N">
+        <Description>GRL|BURGER|California Chicken</Description>
+        <Barcode/>
+        <Cost>3.4470</Cost>
+        <Comments>June 2018 (F19)</Comments>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>12.99</Price>
+        <PLU num="18990">CALIFORNIA CHICKEN BURGER</PLU>
+    </Prod>
+    <Prod id="R-28250" active="Y" special="N">
+        <Description>GRL|Burger|Cheeseburger</Description>
+        <Barcode/>
+        <Cost>2.4117</Cost>
+        <Comments>June 2018 (F19)</Comments>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.29</Price>
+        <PLU num="18993">CLASSIC CHEESE BURGER</PLU>
+    </Prod>
+    <Prod id="R-28249" active="Y" special="N">
+        <Description>GRL|Burger|Classic Beef</Description>
+        <Barcode/>
+        <Cost>2.2129</Cost>
+        <Comments>June 2018 (F19)</Comments>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.29</Price>
+        <PLU num="18992">CLASSIC BEEF BURGER</PLU>
+    </Prod>
+    <Prod id="R-43964" active="Y" special="N">
+        <Description>GRL|Burger|Thai Chili</Description>
+        <Barcode/>
+        <Cost>2.3259</Cost>
+        <Comments>Added 23.8g fat &amp; 214 kcal for deep fry</Comments>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>11.99</Price>
+        <PLU num="32922">THAI CHILI CHICKEN BURGER</PLU>
+    </Prod>
+    <Prod id="R-28288" active="Y" special="N">
+        <Description>GRL|TurkeyBreakfastSausage(2)</Description>
+        <Barcode/>
+        <Cost>1.2490</Cost>
+        <Comments>June 2018 (F19)</Comments>
+        <SalesGroup id="330">OK - GRILL KITCHEN BREAKFAST</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>3.99</Price>
+        <PLU num="18976">TURKEY BREAKFAST SAUSAGE</PLU>
+    </Prod>
+</Prods>

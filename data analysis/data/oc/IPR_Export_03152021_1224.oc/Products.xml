@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Prods>
+    <Prod id="R-44024" active="Y" special="N">
+        <Description>GRL|Burrito|Gather &amp; Run</Description>
+        <Barcode/>
+        <Cost>2.0550</Cost>
+        <Comments>July 2018 (Fiscal 19)</Comments>
+        <SalesGroup id="93">GV - GRILL BREAKFAST</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>6.99</Price>
+        <PLU num="32305">GATHER AND RUN BREAKFAST WRAP</PLU>
+    </Prod>
+    <Prod id="R-30954" active="Y" special="N">
+        <Description>GRL|Chicken Breast</Description>
+        <Barcode/>
+        <Cost>1.5662</Cost>
+        <Comments/>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>5.99</Price>
+        <PLU num="28849">GRILLED CHICKEN BREAST ONLY</PLU>
+    </Prod>
+    <Prod id="R-50569" active="Y" special="N">
+        <Description>GRL|Crepe|NutellaBanana</Description>
+        <Barcode/>
+        <Cost>1.0119</Cost>
+        <Comments/>
+        <SalesGroup id="330">OK - GRILL KITCHEN BREAKFAST</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>4.99</Price>
+        <PLU num="28451">BANANA NUTELLA CREPE</PLU>
+    </Prod>
+    <Prod id="R-28293" active="Y" special="N">
+        <Description>GRL|Crispy Chicken Strips</Description>
+        <Barcode/>
+        <Cost>3.1012</Cost>
+        <Comments>June 2018 (F19)</Comments>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.29</Price>
+        <PLU num="18991">CHICKEN STRIPS</PLU>
+    </Prod>
+    <Prod id="R-35015" active="Y" special="N">
+        <Description>GRL|FrenchFries</Description>
+        <Barcode/>
+        <Cost>0.7590</Cost>
+        <Comments>June 2018 (F19)</Comments>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>4.69</Price>
+        <PLU num="18997">FRENCH FRIES</PLU>
+    </Prod>
+    <Prod id="R-55155" active="Y" special="N">
+        <Description>GRL|Get to Class Sandwich|G&amp;G</Description>
+        <Barcode/>
+        <Cost>1.5325</Cost>
+        <Comments/>
+        <SalesGroup id="330">OK - GRILL KITCHEN BREAKFAST</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>5.99</Price>
+        <PLU num="32306">GO GET TO CLASS SANDWICH</PLU>
+    </Prod>
+    <Prod id="R-57405" active="Y" special="N">
+        <Description>GRL|Grilled Cheese|Classic</Description>
+        <Barcode/>
+        <Cost>1.9483</Cost>
+        <Comments>May 2019</Comments>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>7.99</Price>
+        <PLU num="18994">GRILLED CHEESE SANDWICH</PLU>
+    </Prod>
+    <Prod id="R-28235" active="Y" special="N">
+        <Description>GRL|Ham &amp;Egg Bfast Sand|G&amp;G</Description>
+        <Barcode/>
+        <Cost>1.4454</Cost>
+        <Comments/>
+        <SalesGroup id="330">OK - GRILL KITCHEN BREAKFAST</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>5.99</Price>
+        <PLU num="32450">HAM &amp; EGG BFAST SANDWICH</PLU>
+    </Prod>
+    <Prod id="R-35772" active="Y" special="N">
+        <Description>GRL|PotatoWedges</Description>
+        <Barcode/>
+        <Cost>1.0050</Cost>
+        <Comments/>
+        <SalesGroup id="330">OK - GRILL KITCHEN BREAKFAST</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>3.49</Price>
+        <PLU num="22586">RED SKIN ROASTED POTATOES</PLU>
+    </Prod>
+    <Prod id="R-54875" active="Y" special="N">
+        <Description>GRL|Poutine|Original</Description>
+        <Barcode/>
+        <Cost>1.9388</Cost>
+        <Comments/>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.29</Price>
+        <PLU num="25709">CLASSIC POUTINE</PLU>
+    </Prod>
+    <Prod id="R-46547" active="Y" special="N">
+        <Description>GRL|Salad|Bandit</Description>
+        <Barcode/>
+        <Cost>2.8119</Cost>
+        <Comments/>
+        <SalesGroup id="100">GV - DELISH</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>9.99</Price>
+        <PLU num="32307">BANDIT SALAD</PLU>
+    </Prod>
+    <Prod id="R-35749" active="Y" special="N">
+        <Description>GRL|Salad|Honey Sesame Chicken</Description>
+        <Barcode/>
+        <Cost>3.0480</Cost>
+        <Comments/>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>10.99</Price>
+        <PLU num="32454">HONEY SESAME CHICKEN SALAD</PLU>
+    </Prod>
+    <Prod id="R-50894" active="Y" special="N">
+        <Description>GRL|Salad|Signature|SIDE</Description>
+        <Barcode/>
+        <Cost>1.2984</Cost>
+        <Comments/>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>3.99</Price>
+        <PLU num="18999">SIDE OK SIGNATURE GREENS SALAD</PLU>
+    </Prod>
+    <Prod id="R-57819" active="Y" special="N">
+        <Description>GRL|Salad|Spicy Caesar</Description>
+        <Barcode/>
+        <Cost>1.7553</Cost>
+        <Comments/>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.99</Price>
+        <PLU num="32331">SPICY CAESAR SALAD</PLU>
+    </Prod>
+    <Prod id="R-53848" active="Y" special="N">
+        <Description>GRL|Salad|Spicy Caesar|Side</Description>
+        <Barcode/>
+        <Cost>1.0696</Cost>
+        <Comments/>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>3.99</Price>
+        <PLU num="32990">SIDE SPICY CAESAR SALAD</PLU>
+    </Prod>
+    <Prod id="R-28281" active="Y" special="N">
+        <Description>GRL|Sandwich|Breakfast</Description>
+        <Barcode/>
+        <Cost>1.3186</Cost>
+        <Comments>June 2018 (F19) - Grill</Comments>
+        <SalesGroup id="330">OK - GRILL KITCHEN BREAKFAST</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>6.99</Price>
+        <PLU num="18970">OK BREAKFAST SANDWICH</PLU>
+    </Prod>
+    <Prod id="R-28232" active="Y" special="N">
+        <Description>GRL|Sausage &amp; Egg Bfast Sand</Description>
+        <Barcode/>
+        <Cost>1.5336</Cost>
+        <Comments/>
+        <SalesGroup id="330">OK - GRILL KITCHEN BREAKFAST</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>5.99</Price>
+        <PLU num="32447">SAUSAGE &amp; EGG SANDWICH</PLU>
+    </Prod>
+    <Prod id="R-28286" active="Y" special="N">
+        <Description>GRL|ScrambledEggs</Description>
+        <Barcode/>
+        <Cost>0.4625</Cost>
+        <Comments>June 2018 (F19)</Comments>
+        <SalesGroup id="330">OK - GRILL KITCHEN BREAKFAST</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>2.69</Price>
+        <PLU num="18975">SCRAMBLED EGGS</PLU>
+    </Prod>
+    <Prod id="R-28288" active="Y" special="N">
+        <Description>GRL|TurkeyBreakfastSausage(2)</Description>
+        <Barcode/>
+        <Cost>1.2490</Cost>
+        <Comments>June 2018 (F19)</Comments>
+        <SalesGroup id="330">OK - GRILL KITCHEN BREAKFAST</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>3.99</Price>
+        <PLU num="18976">TURKEY BREAKFAST SAUSAGE</PLU>
+    </Prod>
+    <Prod id="R-35014" active="Y" special="N">
+        <Description>GRL|YamFries</Description>
+        <Barcode/>
+        <Cost>1.1814</Cost>
+        <Comments/>
+        <SalesGroup id="326">OK - GRILL KITCHEN DAY</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>5.29</Price>
+        <PLU num="19001">YAM FRIES</PLU>
+    </Prod>
+    <Prod id="R-35751" active="Y" special="N">
+        <Description>SWG|Salad|Spicy Caesar</Description>
+        <Barcode/>
+        <Cost>1.7551</Cost>
+        <Comments/>
+        <SalesGroup id="432">FT SWEETGREEN</SalesGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <TaxGroup id=""/>
+        <Price>8.49</Price>
+        <PLU num="29396">SPICY CAESAR</PLU>
+    </Prod>
+</Prods>

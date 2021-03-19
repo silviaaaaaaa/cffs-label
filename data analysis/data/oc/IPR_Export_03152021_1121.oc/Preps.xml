@@ -1,0 +1,2199 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Preps>
+    <Prep id="P-56398" active="Y" keyItem="Y">
+        <Description>BATCH| Guacamole AR</Description>
+        <Barcode/>
+        <Cost>11.7873</Cost>
+        <PakQty>2.500</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-26333" active="Y" keyItem="Y">
+        <Description>BATCH|Citrus Herb Aioli</Description>
+        <Barcode/>
+        <Cost>5.7669</Cost>
+        <PakQty>3.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-35713" active="Y" keyItem="Y">
+        <Description>BLACKENED|Chicken</Description>
+        <Barcode/>
+        <Cost>1.5686</Cost>
+        <PakQty>185.000</PakQty>
+        <PakUOM>ea</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="449">OK - ARCHIVE</Location>
+    </Prep>
+    <Prep id="P-51579" active="Y" keyItem="N">
+        <Description>BREADED|Chicken|Cooked</Description>
+        <Barcode/>
+        <Cost>7.5905</Cost>
+        <PakQty>1.600</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50831" active="Y" keyItem="N">
+        <Description>BREADED|Chicken|Karaage Thigh</Description>
+        <Barcode/>
+        <Cost>8.9681</Cost>
+        <PakQty>4.500</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-45062" active="Y" keyItem="Y">
+        <Description>BREADING|Chick Wings|GFree</Description>
+        <Barcode/>
+        <Cost>2.9907</Cost>
+        <PakQty>7.300</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="129">*PV 7. KITCHEN</Location>
+    </Prep>
+    <Prep id="P-50535" active="Y" keyItem="N">
+        <Description>BRINE|Pork|Liquid</Description>
+        <Barcode/>
+        <Cost>0.9848</Cost>
+        <PakQty>43.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments>Adj - 10% of nutrition for brining</Comments>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-51131" active="Y" keyItem="N">
+        <Description>BRINED|Pork Butt|Marinated</Description>
+        <Barcode/>
+        <Cost>6.7317</Cost>
+        <PakQty>8.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50500" active="Y" keyItem="N">
+        <Description>CHIFFONADE|Basil</Description>
+        <Barcode/>
+        <Cost>0.0354</Cost>
+        <PakQty>190.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id="457">OK - STN - GLOBAL</Location>
+    </Prep>
+    <Prep id="P-24750" active="Y" keyItem="N">
+        <Description>CHOPPED|Cilantro</Description>
+        <Barcode/>
+        <Cost>19.1000</Cost>
+        <PakQty>0.500</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-32658" active="Y" keyItem="Y">
+        <Description>COOKED|Adobo Vegetables</Description>
+        <Barcode/>
+        <Cost>5.5539</Cost>
+        <PakQty>4.500</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="457">OK - STN - GLOBAL</Location>
+    </Prep>
+    <Prep id="P-34084" active="Y" keyItem="Y">
+        <Description>COOKED|Bacon</Description>
+        <Barcode/>
+        <Cost>0.0257</Cost>
+        <PakQty>20.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="501">OK - FOOD TRUCK</Location>
+    </Prep>
+    <Prep id="P-51508" active="Y" keyItem="N">
+        <Description>COOKED|Bacon|Slice</Description>
+        <Barcode/>
+        <Cost>0.2570</Cost>
+        <PakQty>2.000</PakQty>
+        <PakUOM>slice</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-56795" active="Y" keyItem="N">
+        <Description>COOKED|Burger</Description>
+        <Barcode/>
+        <Cost>1.4784</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>ea</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-32657" active="Y" keyItem="Y">
+        <Description>COOKED|Chicken Adobo</Description>
+        <Barcode/>
+        <Cost>10.0094</Cost>
+        <PakQty>13.400</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="457">OK - STN - GLOBAL</Location>
+    </Prep>
+    <Prep id="P-50854" active="Y" keyItem="Y">
+        <Description>COOKED|Chicken|Karaage</Description>
+        <Barcode/>
+        <Cost>0.0095</Cost>
+        <PakQty>100.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="499">OK - STN - FLEX</Location>
+    </Prep>
+    <Prep id="P-28258" active="Y" keyItem="Y">
+        <Description>COOKED|Chow Mein</Description>
+        <Barcode/>
+        <Cost>2.7047</Cost>
+        <PakQty>48.081</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-26143" active="Y" keyItem="Y">
+        <Description>COOKED|Rice|Brown Basmati</Description>
+        <Barcode/>
+        <Cost>2.4416</Cost>
+        <PakQty>4.536</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="461">OK - STN - SQUARE</Location>
+    </Prep>
+    <Prep id="P-41300" active="Y" keyItem="Y">
+        <Description>COOKED|Rice|Brown Calrose</Description>
+        <Barcode/>
+        <Cost>4.0539</Cost>
+        <PakQty>2.500</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="126">*PV 5 PROCESS FRIDGE</Location>
+    </Prep>
+    <Prep id="P-50883" active="Y" keyItem="Y">
+        <Description>COOKED|Rice|Sushi</Description>
+        <Barcode/>
+        <Cost>4.3989</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="499">OK - STN - FLEX</Location>
+    </Prep>
+    <Prep id="P-34121" active="Y" keyItem="Y">
+        <Description>COOKED|StirFryChicken</Description>
+        <Barcode/>
+        <Cost>11.6440</Cost>
+        <PakQty>4.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>April 19 (Fiscal 20)</Comments>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-49176" active="Y" keyItem="N">
+        <Description>COOKED|Sweet Potato</Description>
+        <Barcode/>
+        <Cost>3.5474</Cost>
+        <PakQty>0.800</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-44753" active="Y" keyItem="N">
+        <Description>COOKED|Veg|Ginger Garlic Broc</Description>
+        <Barcode/>
+        <Cost>6.4291</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-41094" active="Y" keyItem="N">
+        <Description>DICED|Carrot|1/4&quot;</Description>
+        <Barcode/>
+        <Cost>3.7530</Cost>
+        <PakQty>11.170</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-43702" active="Y" keyItem="N">
+        <Description>DICED|Carrot|3/4&quot;</Description>
+        <Barcode/>
+        <Cost>3.7530</Cost>
+        <PakQty>11.170</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-41095" active="Y" keyItem="N">
+        <Description>DICED|Celery|1/4&quot;</Description>
+        <Barcode/>
+        <Cost>2.4237</Cost>
+        <PakQty>13.608</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-43962" active="Y" keyItem="Y">
+        <Description>DICED|Cucumber|1/4&quot;</Description>
+        <Barcode/>
+        <Cost>6.7930</Cost>
+        <PakQty>3.300</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="449">OK - ARCHIVE</Location>
+    </Prep>
+    <Prep id="P-50692" active="Y" keyItem="N">
+        <Description>DICED|Fry tofu</Description>
+        <Barcode/>
+        <Cost>0.0066</Cost>
+        <PakQty>100.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-9738" active="Y" keyItem="N">
+        <Description>DICED|Green Onion|1/4</Description>
+        <Barcode/>
+        <Cost>4.8775</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-9741" active="Y" keyItem="N">
+        <Description>DICED|Green Onion|1/8</Description>
+        <Barcode/>
+        <Cost>4.8775</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-43440" active="Y" keyItem="Y">
+        <Description>DICED|Red Onion 1/4&quot;</Description>
+        <Barcode/>
+        <Cost>3.6264</Cost>
+        <PakQty>11.010</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-57499" active="Y" keyItem="Y">
+        <Description>DICED|Red Onion 1/8</Description>
+        <Barcode/>
+        <Cost>3.6297</Cost>
+        <PakQty>11.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-38516" active="Y" keyItem="N">
+        <Description>DICED|Red Pepper|3/4&quot;</Description>
+        <Barcode/>
+        <Cost>0.0084</Cost>
+        <PakQty>1000.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-44429" active="Y" keyItem="Y">
+        <Description>DICED|Roma Tomato|1/4&quot;</Description>
+        <Barcode/>
+        <Cost>2.4692</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-39167" active="Y" keyItem="N">
+        <Description>DICED|Yellow Onion|3/4&quot;</Description>
+        <Barcode/>
+        <Cost>2.3257</Cost>
+        <PakQty>11.010</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-28989" active="Y" keyItem="Y">
+        <Description>DRAINED|Chickpeas</Description>
+        <Barcode/>
+        <Cost>3.3564</Cost>
+        <PakQty>1.800</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-35273" active="Y" keyItem="Y">
+        <Description>DRAINED|Pickle Spear</Description>
+        <Barcode/>
+        <Cost>7.6455</Cost>
+        <PakQty>11.400</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-56932" active="Y" keyItem="N">
+        <Description>DRAINED|Pineapple</Description>
+        <Barcode/>
+        <Cost>3.8356</Cost>
+        <PakQty>10.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-7635" active="Y" keyItem="N">
+        <Description>DRAINED|Turtle Black Beans</Description>
+        <Barcode/>
+        <Cost>2.5537</Cost>
+        <PakQty>1.740</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>July 2018 (Fiscal 19)</Comments>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-33530" active="Y" keyItem="Y">
+        <Description>DREDGE|Chili Chicken</Description>
+        <Barcode/>
+        <Cost>2.8514</Cost>
+        <PakQty>5.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="299">ZDONT USE OK - PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="449">OK - ARCHIVE</Location>
+    </Prep>
+    <Prep id="P-28217" active="Y" keyItem="Y">
+        <Description>DRESSING|Asian</Description>
+        <Barcode/>
+        <Cost>9.8219</Cost>
+        <PakQty>16.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="126">*PV 5 PROCESS FRIDGE</Location>
+    </Prep>
+    <Prep id="P-26058" active="Y" keyItem="Y">
+        <Description>DRESSING|Citrus Oil</Description>
+        <Barcode/>
+        <Cost>2.4519</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments>1 week</Comments>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-26383" active="Y" keyItem="Y">
+        <Description>DRESSING|Cumin Lime</Description>
+        <Barcode/>
+        <Cost>3.6540</Cost>
+        <PakQty>3.500</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-44311" active="Y" keyItem="N">
+        <Description>Dressing|Tabouleh</Description>
+        <Barcode/>
+        <Cost>13.4881</Cost>
+        <PakQty>1.400</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-42160" active="Y" keyItem="N">
+        <Description>DRESSING|Tahini Drizzle</Description>
+        <Barcode/>
+        <Cost>5.6420</Cost>
+        <PakQty>1.500</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-26055" active="Y" keyItem="N">
+        <Description>EGG|Scrambled</Description>
+        <Barcode/>
+        <Cost>0.0037</Cost>
+        <PakQty>850.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments>20 minutes</Comments>
+        <InventoryGroup id="299">ZDONT USE OK - PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="4">PREP</Location>
+    </Prep>
+    <Prep id="P-44363" active="Y" keyItem="N">
+        <Description>FRIED|Cauliflower</Description>
+        <Barcode/>
+        <Cost>5.8041</Cost>
+        <PakQty>6.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>avrg cauliflower wt = 600g</Comments>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-33531" active="Y" keyItem="Y">
+        <Description>FRIED|Crispy Wonton Wrapper</Description>
+        <Barcode/>
+        <Cost>2.7873</Cost>
+        <PakQty>5.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="449">OK - ARCHIVE</Location>
+    </Prep>
+    <Prep id="P-26057" active="Y" keyItem="N">
+        <Description>FRIED|Sunny/Overeasy Egg</Description>
+        <Barcode/>
+        <Cost>0.3631</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>ea</PakUOM>
+        <Comments>10 minutes</Comments>
+        <InventoryGroup id="299">ZDONT USE OK - PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-26056" active="Y" keyItem="N">
+        <Description>GRILLED|Tomato</Description>
+        <Barcode/>
+        <Cost>0.2643</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>ea</PakUOM>
+        <Comments>10 minutes</Comments>
+        <InventoryGroup id="299">ZDONT USE OK - PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="4">PREP</Location>
+    </Prep>
+    <Prep id="P-52753" active="Y" keyItem="N">
+        <Description>GRL|COOKED EGG ANYSTYLE</Description>
+        <Barcode/>
+        <Cost>0.3631</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>ea</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50803" active="Y" keyItem="N">
+        <Description>GRL|Sauce|Jalapeno Honey Mayo</Description>
+        <Barcode/>
+        <Cost>4.2120</Cost>
+        <PakQty>2.500</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-58261" active="Y" keyItem="N">
+        <Description>MARINATE|Albacore tuna|gza</Description>
+        <Barcode/>
+        <Cost>8.3773</Cost>
+        <PakQty>2.500</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50830" active="Y" keyItem="N">
+        <Description>MARINATED|ChickenKaraage thigh</Description>
+        <Barcode/>
+        <Cost>9.6696</Cost>
+        <PakQty>5.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>adj&apos;d for 10% marinade abspt</Comments>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-35132" active="Y" keyItem="Y">
+        <Description>MARINATED|Lemon &amp; Herb Chx</Description>
+        <Barcode/>
+        <Cost>1.5662</Cost>
+        <PakQty>185.000</PakQty>
+        <PakUOM>ea</PakUOM>
+        <Comments>4 days</Comments>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-34832" active="Y" keyItem="Y">
+        <Description>MARINATED|Tuna|Gyaza</Description>
+        <Barcode/>
+        <Cost>24.3688</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="499">OK - STN - FLEX</Location>
+    </Prep>
+    <Prep id="P-25993" active="Y" keyItem="N">
+        <Description>MIX|Salt and Pepper - FT</Description>
+        <Barcode/>
+        <Cost>0.0079</Cost>
+        <PakQty>6000.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id="501">OK - FOOD TRUCK</Location>
+    </Prep>
+    <Prep id="P-18907" active="Y" keyItem="N">
+        <Description>MIX|Salt&amp;Pepper</Description>
+        <Barcode/>
+        <Cost>0.0084</Cost>
+        <PakQty>1225.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-47355" active="Y" keyItem="Y">
+        <Description>NOODLE|Carrot|Sunomono</Description>
+        <Barcode/>
+        <Cost>0.0026</Cost>
+        <PakQty>500.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="499">OK - STN - FLEX</Location>
+    </Prep>
+    <Prep id="P-26381" active="Y" keyItem="Y">
+        <Description>OIL|Garlic Chili</Description>
+        <Barcode/>
+        <Cost>5.0404</Cost>
+        <PakQty>4.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments>2 weeks</Comments>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-41468" active="Y" keyItem="Y">
+        <Description>PICKLE|Base Totem</Description>
+        <Barcode/>
+        <Cost>0.8960</Cost>
+        <PakQty>15.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-43341" active="Y" keyItem="Y">
+        <Description>PICKLE|Cabbage</Description>
+        <Barcode/>
+        <Cost>7.8189</Cost>
+        <PakQty>8.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-50677" active="Y" keyItem="N">
+        <Description>PICKLE|Cucumber</Description>
+        <Barcode/>
+        <Cost>0.0038</Cost>
+        <PakQty>500.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50686" active="Y" keyItem="N">
+        <Description>PICKLE|Red cabbage</Description>
+        <Barcode/>
+        <Cost>0.0060</Cost>
+        <PakQty>500.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50683" active="Y" keyItem="Y">
+        <Description>PICKLED|Carrots</Description>
+        <Barcode/>
+        <Cost>0.0012</Cost>
+        <PakQty>500.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="498">OK - STN - SALAD BAR</Location>
+    </Prep>
+    <Prep id="P-44651" active="Y" keyItem="Y">
+        <Description>PICKLED|Farm Veg</Description>
+        <Barcode/>
+        <Cost>13.1431</Cost>
+        <PakQty>1.500</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="126">*PV 5 PROCESS FRIDGE</Location>
+    </Prep>
+    <Prep id="P-25761" active="Y" keyItem="Y">
+        <Description>PICKLED|Red Onion</Description>
+        <Barcode/>
+        <Cost>1.4648</Cost>
+        <PakQty>5.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments>4 Weeks</Comments>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-56717" active="Y" keyItem="N">
+        <Description>PORTION|Chicken thigh|Burger</Description>
+        <Barcode/>
+        <Cost>0.0102</Cost>
+        <PakQty>150.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-9713" active="Y" keyItem="N">
+        <Description>PREP Carrot Jumbo Processed</Description>
+        <Barcode/>
+        <Cost>0.3789</Cost>
+        <PakQty>45.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+    </Prep>
+    <Prep id="P-48495" active="Y" keyItem="N">
+        <Description>PREP|Cilantro|Minced</Description>
+        <Barcode/>
+        <Cost>0.0222</Cost>
+        <PakQty>100.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-56890" active="Y" keyItem="Y">
+        <Description>PREP|Cooked Papperdelle</Description>
+        <Barcode/>
+        <Cost>3.3950</Cost>
+        <PakQty>2.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>sodium adjusted 10% for drain water</Comments>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-41619" active="Y" keyItem="Y">
+        <Description>PREP|Cooked Quinoa</Description>
+        <Barcode/>
+        <Cost>3.2387</Cost>
+        <PakQty>2.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="449">OK - ARCHIVE</Location>
+    </Prep>
+    <Prep id="P-44392" active="Y" keyItem="Y">
+        <Description>PREP|Eggs|poached</Description>
+        <Barcode/>
+        <Cost>0.3542</Cost>
+        <PakQty>8.000</PakQty>
+        <PakUOM>each</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="123">*PV 2. MEAT FRIDGE</Location>
+    </Prep>
+    <Prep id="P-7444" active="Y" keyItem="Y">
+        <Description>PREP|Garlic Puree</Description>
+        <Barcode/>
+        <Cost>7.5052</Cost>
+        <PakQty>4.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-25871" active="Y" keyItem="N">
+        <Description>PREP|Green Leaf Lettuce</Description>
+        <Barcode/>
+        <Cost>0.0028</Cost>
+        <PakQty>500.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-57093" active="Y" keyItem="N">
+        <Description>PREP|Large Diced|Cucumber</Description>
+        <Barcode/>
+        <Cost>0.0201</Cost>
+        <PakQty>275.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-46865" active="Y" keyItem="N">
+        <Description>PREP|Lemon|slices</Description>
+        <Barcode/>
+        <Cost>0.0046</Cost>
+        <PakQty>78.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id="457">OK - STN - GLOBAL</Location>
+    </Prep>
+    <Prep id="P-44585" active="Y" keyItem="N">
+        <Description>PREP|Lime|WEDGE</Description>
+        <Barcode/>
+        <Cost>0.0068</Cost>
+        <PakQty>80.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-57227" active="Y" keyItem="N">
+        <Description>PREP|Mirepoix</Description>
+        <Barcode/>
+        <Cost>2.7070</Cost>
+        <PakQty>4.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-8205" active="Y" keyItem="Y">
+        <Description>PREP|Pull pork|COOKED</Description>
+        <Barcode/>
+        <Cost>10.3739</Cost>
+        <PakQty>5.600</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="123">*PV 2. MEAT FRIDGE</Location>
+    </Prep>
+    <Prep id="P-56487" active="Y" keyItem="N">
+        <Description>PREP|Radish|Julienne</Description>
+        <Barcode/>
+        <Cost>1.5117</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50852" active="Y" keyItem="Y">
+        <Description>PREP|Salmon|Ponzu</Description>
+        <Barcode/>
+        <Cost>0.0302</Cost>
+        <PakQty>550.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="302">OK - FREEZER</Location>
+    </Prep>
+    <Prep id="P-40584" active="Y" keyItem="Y">
+        <Description>PREP|Shallot Crispy</Description>
+        <Barcode/>
+        <Cost>20.8689</Cost>
+        <PakQty>9.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="449">OK - ARCHIVE</Location>
+    </Prep>
+    <Prep id="P-46862" active="Y" keyItem="Y">
+        <Description>PREP|Slice|Roma</Description>
+        <Barcode/>
+        <Cost>3.4444</Cost>
+        <PakQty>2.700</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-53277" active="Y" keyItem="N">
+        <Description>PREP|Veg Stock</Description>
+        <Barcode/>
+        <Cost>0.9072</Cost>
+        <PakQty>10.300</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-26020" active="Y" keyItem="Y">
+        <Description>PUREE|Garlic|Kg - FT</Description>
+        <Barcode/>
+        <Cost>11.0302</Cost>
+        <PakQty>2.500</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>2 weeks</Comments>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-10496" active="Y" keyItem="N">
+        <Description>PUREE|Ginger|Kg - FT</Description>
+        <Barcode/>
+        <Cost>5.9690</Cost>
+        <PakQty>3.270</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="151">TP - 5. PROCES FOOD</Location>
+    </Prep>
+    <Prep id="P-34880" active="Y" keyItem="N">
+        <Description>PUREE|Ginger|OK - KG</Description>
+        <Barcode/>
+        <Cost>8.1295</Cost>
+        <PakQty>4.800</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-56797" active="Y" keyItem="N">
+        <Description>PUREE|Shallot</Description>
+        <Barcode/>
+        <Cost>12.5002</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-55494" active="Y" keyItem="N">
+        <Description>RICE|Pineapple</Description>
+        <Barcode/>
+        <Cost>2.0351</Cost>
+        <PakQty>5.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50690" active="Y" keyItem="N">
+        <Description>ROASTED|Cashew|No Seasoning</Description>
+        <Barcode/>
+        <Cost>19.7504</Cost>
+        <PakQty>4.800</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-44633" active="Y" keyItem="N">
+        <Description>ROASTED|Corn|CAL</Description>
+        <Barcode/>
+        <Cost>3.8705</Cost>
+        <PakQty>1.800</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-8202" active="Y" keyItem="N">
+        <Description>RUB|Pulled Pork</Description>
+        <Barcode/>
+        <Cost>0.0106</Cost>
+        <PakQty>400.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id="119">DRY STORAGE</Location>
+    </Prep>
+    <Prep id="P-9838" active="Y" keyItem="N">
+        <Description>SALAD|Asian Slaw</Description>
+        <Barcode/>
+        <Cost>3.6210</Cost>
+        <PakQty>4.750</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-26069" active="Y" keyItem="N">
+        <Description>SALAD|Citrus Scented Arugula</Description>
+        <Barcode/>
+        <Cost>0.0116</Cost>
+        <PakQty>15.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-44760" active="Y" keyItem="Y">
+        <Description>SALAD|Seaweed|Ponzu</Description>
+        <Barcode/>
+        <Cost>8.6217</Cost>
+        <PakQty>3.100</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="126">*PV 5 PROCESS FRIDGE</Location>
+    </Prep>
+    <Prep id="P-44312" active="Y" keyItem="Y">
+        <Description>Salad|Tabouleh Mix</Description>
+        <Barcode/>
+        <Cost>5.5786</Cost>
+        <PakQty>6.250</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-59921" active="Y" keyItem="N">
+        <Description>SALSA|Mango Pineapple</Description>
+        <Barcode/>
+        <Cost>6.5550</Cost>
+        <PakQty>2.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50720" active="Y" keyItem="N">
+        <Description>SALSA|Mango Salsa|CAL</Description>
+        <Barcode/>
+        <Cost>4.1636</Cost>
+        <PakQty>3.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-26062" active="Y" keyItem="Y">
+        <Description>SALSA|Pico de Gallo|OK</Description>
+        <Barcode/>
+        <Cost>2.9688</Cost>
+        <PakQty>30.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-26140" active="Y" keyItem="Y">
+        <Description>SALSA|Roasted Tomatillo</Description>
+        <Barcode/>
+        <Cost>9.7703</Cost>
+        <PakQty>1.474</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-53256" active="Y" keyItem="N">
+        <Description>SAUCE|Adobo</Description>
+        <Barcode/>
+        <Cost>5.3161</Cost>
+        <PakQty>3.560</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-36566" active="Y" keyItem="Y">
+        <Description>SAUCE|Avocado Spinach</Description>
+        <Barcode/>
+        <Cost>4.9487</Cost>
+        <PakQty>48.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-61308" active="Y" keyItem="N">
+        <Description>SAUCE|Habanero</Description>
+        <Barcode/>
+        <Cost>1.5659</Cost>
+        <PakQty>2.750</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-28994" active="Y" keyItem="Y">
+        <Description>SAUCE|Hummus|OK</Description>
+        <Barcode/>
+        <Cost>3.5971</Cost>
+        <PakQty>2.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-27492" active="Y" keyItem="Y">
+        <Description>SAUCE|Hunan Kung Pao</Description>
+        <Barcode/>
+        <Cost>6.8014</Cost>
+        <PakQty>3.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="299">ZDONT USE OK - PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="449">OK - ARCHIVE</Location>
+    </Prep>
+    <Prep id="P-34843" active="Y" keyItem="Y">
+        <Description>SAUCE|Kecap Manis</Description>
+        <Barcode/>
+        <Cost>5.1976</Cost>
+        <PakQty>4.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-7565" active="Y" keyItem="Y">
+        <Description>SAUCE|Mayo|Sambal Lime</Description>
+        <Barcode/>
+        <Cost>4.6229</Cost>
+        <PakQty>4.200</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="126">*PV 5 PROCESS FRIDGE</Location>
+    </Prep>
+    <Prep id="P-43674" active="Y" keyItem="Y">
+        <Description>SAUCE|Ponzu</Description>
+        <Barcode/>
+        <Cost>0.0098</Cost>
+        <PakQty>250.000</PakQty>
+        <PakUOM>ml</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-56891" active="Y" keyItem="Y">
+        <Description>SAUCE|Short Rib Reduction</Description>
+        <Barcode/>
+        <Cost>2.4846</Cost>
+        <PakQty>5.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="449">OK - ARCHIVE</Location>
+    </Prep>
+    <Prep id="P-40595" active="Y" keyItem="Y">
+        <Description>SAUCE|Soy Ginger Dip</Description>
+        <Barcode/>
+        <Cost>6.1353</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-47684" active="Y" keyItem="N">
+        <Description>SAUCE|Sweet Chili|GRL</Description>
+        <Barcode/>
+        <Cost>0.0129</Cost>
+        <PakQty>75.000</PakQty>
+        <PakUOM>ml</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-26086" active="Y" keyItem="Y">
+        <Description>SAUCE|Teriyaki</Description>
+        <Barcode/>
+        <Cost>2.6851</Cost>
+        <PakQty>18.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-26065" active="Y" keyItem="Y">
+        <Description>SAUCE|Thunderbird|Batch</Description>
+        <Barcode/>
+        <Cost>3.3908</Cost>
+        <PakQty>4.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments>1 week</Comments>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-26226" active="Y" keyItem="Y">
+        <Description>SAUCE|Tomato</Description>
+        <Barcode/>
+        <Cost>1.8102</Cost>
+        <PakQty>4.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-50691" active="Y" keyItem="N">
+        <Description>SAUTE|Tofu Teriyaki</Description>
+        <Barcode/>
+        <Cost>0.0051</Cost>
+        <PakQty>130.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50689" active="Y" keyItem="N">
+        <Description>SAUTE|Zucchini</Description>
+        <Barcode/>
+        <Cost>0.0027</Cost>
+        <PakQty>100.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-54203" active="Y" keyItem="Y">
+        <Description>SAUTEED|Shitake Mushroom</Description>
+        <Barcode/>
+        <Cost>41.1010</Cost>
+        <PakQty>1.124</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="459">OK - STN - GRILL</Location>
+    </Prep>
+    <Prep id="P-50850" active="Y" keyItem="N">
+        <Description>SEASONING|Sunomono</Description>
+        <Barcode/>
+        <Cost>0.0070</Cost>
+        <PakQty>660.000</PakQty>
+        <PakUOM>ml</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50881" active="Y" keyItem="Y">
+        <Description>SEASONING|Sushi</Description>
+        <Barcode/>
+        <Cost>0.0069</Cost>
+        <PakQty>100.000</PakQty>
+        <PakUOM>ml</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="131">*PV 9.3 GYAZA</Location>
+    </Prep>
+    <Prep id="P-46864" active="Y" keyItem="N">
+        <Description>SHRED|Iceberg Lettuce</Description>
+        <Barcode/>
+        <Cost>0.0023</Cost>
+        <PakQty>600.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-9714" active="Y" keyItem="N">
+        <Description>SHREDDED|Carrot Jumbo</Description>
+        <Barcode/>
+        <Cost>0.3789</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-42425" active="Y" keyItem="Y">
+        <Description>SLICE|Cucumber|1/8</Description>
+        <Barcode/>
+        <Cost>0.0078</Cost>
+        <PakQty>470.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-34116" active="Y" keyItem="Y">
+        <Description>SLICED|1/8 carrot</Description>
+        <Barcode/>
+        <Cost>4.2324</Cost>
+        <PakQty>11.320</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-51510" active="Y" keyItem="N">
+        <Description>SLICED|Avocado|1/4ea</Description>
+        <Barcode/>
+        <Cost>0.3113</Cost>
+        <PakQty>4.000</PakQty>
+        <PakUOM>PTN</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-44506" active="Y" keyItem="N">
+        <Description>SLICED|Avocado|Quarter</Description>
+        <Barcode/>
+        <Cost>0.3167</Cost>
+        <PakQty>4.000</PakQty>
+        <PakUOM>each</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50619" active="Y" keyItem="N">
+        <Description>SLICED|Celery</Description>
+        <Barcode/>
+        <Cost>1.9120</Cost>
+        <PakQty>7.500</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-18318" active="Y" keyItem="N">
+        <Description>SLICED|Green Onion</Description>
+        <Barcode/>
+        <Cost>0.0061</Cost>
+        <PakQty>160.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-39057" active="Y" keyItem="Y">
+        <Description>SLICED|Green Onion v1</Description>
+        <Barcode/>
+        <Cost>0.0039</Cost>
+        <PakQty>150.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-50840" active="Y" keyItem="Y">
+        <Description>SLICED|Green Pepper 1/8&quot;</Description>
+        <Barcode/>
+        <Cost>2.1746</Cost>
+        <PakQty>1.764</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="498">OK - STN - SALAD BAR</Location>
+    </Prep>
+    <Prep id="P-35272" active="Y" keyItem="Y">
+        <Description>SLICED|Iceburg</Description>
+        <Barcode/>
+        <Cost>0.0033</Cost>
+        <PakQty>425.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-44475" active="Y" keyItem="Y">
+        <Description>SLICED|Jalepeno|1/8th</Description>
+        <Barcode/>
+        <Cost>0.0050</Cost>
+        <PakQty>214.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="16">FOOD - GROCERY</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+    </Prep>
+    <Prep id="P-34123" active="Y" keyItem="Y">
+        <Description>SLICED|Onion 1/8&quot;</Description>
+        <Barcode/>
+        <Cost>1.0502</Cost>
+        <PakQty>11.010</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-50547" active="Y" keyItem="N">
+        <Description>SLICED|Onion Red</Description>
+        <Barcode/>
+        <Cost>0.8109</Cost>
+        <PakQty>23.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-35258" active="Y" keyItem="Y">
+        <Description>SLICED|Red onion</Description>
+        <Barcode/>
+        <Cost>3.6422</Cost>
+        <PakQty>11.010</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="303">OK - PRODUCE COOLER</Location>
+    </Prep>
+    <Prep id="P-57370" active="Y" keyItem="N">
+        <Description>SLICED|Shallots</Description>
+        <Barcode/>
+        <Cost>12.5002</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50495" active="Y" keyItem="N">
+        <Description>SLURRY|Cornstarch</Description>
+        <Barcode/>
+        <Cost>1.6520</Cost>
+        <PakQty>2.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50784" active="Y" keyItem="N">
+        <Description>SMASHED|Avocado</Description>
+        <Barcode/>
+        <Cost>10.2186</Cost>
+        <PakQty>1.500</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-44913" active="Y" keyItem="Y">
+        <Description>SMASHED|Chunky Avocado</Description>
+        <Barcode/>
+        <Cost>12.0810</Cost>
+        <PakQty>1.600</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>July 2018 (Fiscal)</Comments>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="247">*PV 9.1 FRESH FARE</Location>
+    </Prep>
+    <Prep id="P-47322" active="Y" keyItem="N">
+        <Description>SPICE|Cajun</Description>
+        <Barcode/>
+        <Cost>0.0142</Cost>
+        <PakQty>700.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments>November 2108 (Fiscal 19)</Comments>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50473" active="Y" keyItem="Y">
+        <Description>SQR|Beef Short Ribs</Description>
+        <Barcode/>
+        <Cost>13.8313</Cost>
+        <PakQty>12.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-44331" active="Y" keyItem="N">
+        <Description>STEAMED|Broccoli</Description>
+        <Barcode/>
+        <Cost>4.5885</Cost>
+        <PakQty>3.850</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-25893" active="Y" keyItem="Y">
+        <Description>STEAMED|ROASTED|Potato</Description>
+        <Barcode/>
+        <Cost>2.1524</Cost>
+        <PakQty>21.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="461">OK - STN - SQUARE</Location>
+    </Prep>
+    <Prep id="P-32673" active="Y" keyItem="N">
+        <Description>STOCK|Beef from conc</Description>
+        <Barcode/>
+        <Cost>0.4464</Cost>
+        <PakQty>32.000</PakQty>
+        <PakUOM>L</PakUOM>
+        <Comments/>
+        <InventoryGroup id="299">ZDONT USE OK - PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="4">PREP</Location>
+    </Prep>
+    <Prep id="P-58343" active="Y" keyItem="N">
+        <Description>VEG|MIX|KUNG PAO</Description>
+        <Barcode/>
+        <Cost>3.0267</Cost>
+        <PakQty>13.500</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-19208" active="Y" keyItem="N">
+        <Description>YEILD|Carrots Raw</Description>
+        <Barcode/>
+        <Cost>2.2826</Cost>
+        <PakQty>8.200</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-44728" active="Y" keyItem="N">
+        <Description>YEILD|Chopped Parsley</Description>
+        <Barcode/>
+        <Cost>0.0207</Cost>
+        <PakQty>45.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-9851" active="Y" keyItem="N">
+        <Description>YIELD|Beets</Description>
+        <Barcode/>
+        <Cost>6.4861</Cost>
+        <PakQty>7.484</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>July 2018 (Fiscal 19)</Comments>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50966" active="Y" keyItem="N">
+        <Description>YIELD|Cherry Tomato Cut</Description>
+        <Barcode/>
+        <Cost>8.1461</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-51130" active="Y" keyItem="Y">
+        <Description>YIELD|Chicken thigh|Boneless</Description>
+        <Barcode/>
+        <Cost>0.0102</Cost>
+        <PakQty>140.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="123">*PV 2. MEAT FRIDGE</Location>
+    </Prep>
+    <Prep id="P-44510" active="Y" keyItem="N">
+        <Description>YIELD|Cilantro|Bunch</Description>
+        <Barcode/>
+        <Cost>0.0238</Cost>
+        <PakQty>50.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-26514" active="Y" keyItem="N">
+        <Description>YIELD|Cilantro|Herb</Description>
+        <Barcode/>
+        <Cost>0.0191</Cost>
+        <PakQty>55.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-26216" active="Y" keyItem="Y">
+        <Description>YIELD|COOKED Pasta|Penne|WW</Description>
+        <Barcode/>
+        <Cost>2.1764</Cost>
+        <PakQty>2.900</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-50497" active="Y" keyItem="Y">
+        <Description>YIELD|COOKED Pasta|Spag|WW</Description>
+        <Barcode/>
+        <Cost>2.0841</Cost>
+        <PakQty>4.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-21077" active="Y" keyItem="Y">
+        <Description>YIELD|Cucumber Processed</Description>
+        <Barcode/>
+        <Cost>5.8992</Cost>
+        <PakQty>3.800</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="498">OK - STN - SALAD BAR</Location>
+    </Prep>
+    <Prep id="P-9710" active="Y" keyItem="N">
+        <Description>YIELD|Green cabbage</Description>
+        <Barcode/>
+        <Cost>1.0388</Cost>
+        <PakQty>40.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-48933" active="Y" keyItem="N">
+        <Description>YIELD|Green onion|Fresh</Description>
+        <Barcode/>
+        <Cost>4.8775</Cost>
+        <PakQty>5.700</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-52036" active="Y" keyItem="N">
+        <Description>YIELD|Herb|Thyme</Description>
+        <Barcode/>
+        <Cost>0.0785</Cost>
+        <PakQty>500.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments>July 2019 (Fiscal 19)</Comments>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50429" active="Y" keyItem="Y">
+        <Description>YIELD|Italian Parsley|Herb</Description>
+        <Barcode/>
+        <Cost>0.0037</Cost>
+        <PakQty>450.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="501">OK - FOOD TRUCK</Location>
+    </Prep>
+    <Prep id="P-56811" active="Y" keyItem="N">
+        <Description>YIELD|Jalapeno</Description>
+        <Barcode/>
+        <Cost>4.5165</Cost>
+        <PakQty>4.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-53745" active="Y" keyItem="N">
+        <Description>YIELD|Jalapenos wt seeds|Whole</Description>
+        <Barcode/>
+        <Cost>4.4215</Cost>
+        <PakQty>0.900</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-20239" active="Y" keyItem="N">
+        <Description>YIELD|Kale Processed</Description>
+        <Barcode/>
+        <Cost>7.2070</Cost>
+        <PakQty>7.400</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50851" active="Y" keyItem="N">
+        <Description>YIELD|Kuterra||Poke</Description>
+        <Barcode/>
+        <Cost>31.7201</Cost>
+        <PakQty>5.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-57183" active="Y" keyItem="N">
+        <Description>YIELD|Lemon</Description>
+        <Barcode/>
+        <Cost>0.0109</Cost>
+        <PakQty>330.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-46492" active="Y" keyItem="N">
+        <Description>YIELD|Mint|Herb</Description>
+        <Barcode/>
+        <Cost>62.0968</Cost>
+        <PakQty>0.600</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-56921" active="Y" keyItem="N">
+        <Description>YIELD|Poblano</Description>
+        <Barcode/>
+        <Cost>0.0090</Cost>
+        <PakQty>825.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-42504" active="Y" keyItem="N">
+        <Description>YIELD|Potato Chips</Description>
+        <Barcode/>
+        <Cost>0.0119</Cost>
+        <PakQty>475.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments>14 days</Comments>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="241">ARCHIVED ITEMS</Location>
+    </Prep>
+    <Prep id="P-9854" active="Y" keyItem="N">
+        <Description>YIELD|Radish</Description>
+        <Barcode/>
+        <Cost>1.5117</Cost>
+        <PakQty>19.051</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>July 2018 (Fiscal 19)</Comments>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-9712" active="Y" keyItem="Y">
+        <Description>YIELD|Red Cabbage</Description>
+        <Barcode/>
+        <Cost>1.3550</Cost>
+        <PakQty>40.000</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="498">OK - STN - SALAD BAR</Location>
+    </Prep>
+    <Prep id="P-19175" active="Y" keyItem="Y">
+        <Description>YIELD|Red Onion</Description>
+        <Barcode/>
+        <Cost>3.4719</Cost>
+        <PakQty>1.600</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>July 2018 (Fiscal 19)</Comments>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="472">OK - STN - VEG PREP</Location>
+    </Prep>
+    <Prep id="P-18746" active="Y" keyItem="Y">
+        <Description>YIELD|Red Pepper|Fresh</Description>
+        <Barcode/>
+        <Cost>8.3911</Cost>
+        <PakQty>8.300</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id="47">PREP</InventoryGroup>
+        <SalesCategory id="2">Food</SalesCategory>
+        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+        <Location id="500">OK - PROCESSED</Location>
+    </Prep>
+    <Prep id="P-51568" active="Y" keyItem="N">
+        <Description>YIELD|Red Skin Potato Wedges</Description>
+        <Barcode/>
+        <Cost>4.0033</Cost>
+        <PakQty>2.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-44901" active="Y" keyItem="N">
+        <Description>YIELD|Rosemary Fresh|Herb</Description>
+        <Barcode/>
+        <Cost>58.2726</Cost>
+        <PakQty>0.650</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>July 2018 (Fiscal 19)</Comments>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-52997" active="Y" keyItem="N">
+        <Description>YIELD|Seaweed salad|FLX</Description>
+        <Barcode/>
+        <Cost>7.7051</Cost>
+        <PakQty>1.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-57143" active="Y" keyItem="N">
+        <Description>YIELD|Thai Chili Peppers</Description>
+        <Barcode/>
+        <Cost>10.6557</Cost>
+        <PakQty>0.900</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50676" active="Y" keyItem="N">
+        <Description>YIELD|Thyme</Description>
+        <Barcode/>
+        <Cost>0.0594</Cost>
+        <PakQty>300.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-56923" active="Y" keyItem="N">
+        <Description>YIELD|Tomatillio</Description>
+        <Barcode/>
+        <Cost>0.0049</Cost>
+        <PakQty>825.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50587" active="Y" keyItem="N">
+        <Description>YIELD|Tomato Roma</Description>
+        <Barcode/>
+        <Cost>2.4692</Cost>
+        <PakQty>9.000</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50657" active="Y" keyItem="N">
+        <Description>YIELD|Tomato Vine On|Slice</Description>
+        <Barcode/>
+        <Cost>0.1669</Cost>
+        <PakQty>14.000</PakQty>
+        <PakUOM>slice</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-50855" active="Y" keyItem="N">
+        <Description>YIELD|Tomatoes|Ponzu</Description>
+        <Barcode/>
+        <Cost>0.0116</Cost>
+        <PakQty>400.000</PakQty>
+        <PakUOM>g</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-47511" active="Y" keyItem="N">
+        <Description>YIELD|Tuna albacore OW</Description>
+        <Barcode/>
+        <Cost>23.7326</Cost>
+        <PakQty>9.750</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-24452" active="Y" keyItem="N">
+        <Description>YIELD|Yellow Onion</Description>
+        <Barcode/>
+        <Cost>1.0056</Cost>
+        <PakQty>0.900</PakQty>
+        <PakUOM>lb</PakUOM>
+        <Comments/>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+    <Prep id="P-9756" active="Y" keyItem="N">
+        <Description>YIELD|Zucchini</Description>
+        <Barcode/>
+        <Cost>2.3712</Cost>
+        <PakQty>0.900</PakQty>
+        <PakUOM>Kg</PakUOM>
+        <Comments>July 2018 (Fiscal 19)</Comments>
+        <InventoryGroup id=""/>
+        <SalesCategory id=""/>
+        <IncomeAccount id="" ref="" type="" locked=""/>
+        <Location id=""/>
+    </Prep>
+</Preps>
