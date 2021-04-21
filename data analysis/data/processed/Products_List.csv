@@ -1,48 +1,4 @@
 ProdId,Description
-R-36666,FF|Bowl|Five Alarm
-R-36568,FF|Pasta|Spinach Avocado
-R-50362,FLX|Bowl|Karaage Chicken
-R-50360,FLX|Bowl|Salmon
-R-50359,FLX|Bowl|Tuna Albacore
-R-44362,FLX|Fried Cauliflower Bowl|Med
-R-44319,FLX|Side Quinoa Tabouleh Salad
-R-44583,FLX|Taco|Mojo pork
-R-30406,G&G|Croissant|Multigrain|OK
-R-32750,GLB|Chicken Adobo
-R-29391,GLB|Chicken Kung Pao
-R-56893,GLB|Short Rib Papperdelle
-R-37093,GLB|Spaghetti & Meatballs
-R-33532,GLB|Sweet Chili Chicken
-R-50700,GLB|Teriyaki Tofu Bowl
-R-51190,GRL|Bagel E.A.L.T Bfast Sandw
-R-28280,GRL|Breakfast Entree
-R-50368,GRL|BreakfastCroissant
-R-35714,GRL|Burger|BlackenedChicken
-R-28251,GRL|BURGER|California Chicken
-R-28250,GRL|Burger|Cheeseburger
-R-28249,GRL|Burger|Classic Beef
-R-43964,GRL|Burger|Thai Chili
-R-28288,GRL|TurkeyBreakfastSausage(2)
-R-53084,SQR|Ultimate Veg Burger
-R-28396,SQR|Vegetarian Lasagna 250g
-R-44779,TRUCK|Chick Wings|W/O Gluten
-R-55819,TRUCK|Fish & Chips|2pc
-R-60550,TRUCK|Mac & Cheese
-R-55117,VEG|BananaAlmond Overnite Oats
-R-27275,VEG|Black Bean Breakfast Bowl
-R-43738,VEG|BOWL|DobanjiangNoodle
-R-56509,VEG|Breakfast Quesadilla
-R-32886,VEG|Curried Chickpea Bowl
-R-53342,VEG|Falafel Bowl
-R-58351,VEG|Harvest Pumpkin Pasta
-R-48488,VEG|Huevos Rancheros
-R-57098,VEG|Kale Wh Bean Quesadilla
-R-56696,VEG|Omelet|Mushroom Pesto
-R-50555,VEG|Omelet|Spinach Goat Cheese
-R-27405,VEG|Southwest Bowl
-R-55133,VEG|Spin Artichoke Quesadilla
-R-60319,VEG|Spin Mush Avo Quesadilla
-R-27273,VEG|Toast|Avocado
 R-50859,ALF|Flatbread|Bruschetta
 R-50494,ALF|Flatbread|Proscuitto
 R-56505,ALF|Pasta|Chicken Alfredo
@@ -52,53 +8,14 @@ R-44315,BNO|Bowl|Ancho Chicken
 R-44310,BNO|Bowl|Steak
 R-43587,BNO|Burrito|Ancho Chicken
 R-44303,BNO|Burrito|Pulled Pork
-R-43580,BNO|Burrito|Steak
-R-44316,BNO|Burrito|White Bean
+R-43580,BNO|Burrito|Steak 
+R-44316,BNO|Burrito|White Bean 
 R-57179,BNO|Chicken Fajita Bowl
 R-35896,CAL|Bowl|Havana
-R-37170,CST|Beef
+R-37170,CST|Beef 
 R-37171,CST|Chicken
 R-51828,CST|Fried Rice Friday|Meat
 R-37172,CST|Salmon
 R-37173,CST|Tofu
 R-28301,CST|Veg Only
-R-44024,GRL|Burrito|Gather & Run
-R-30954,GRL|Chicken Breast
-R-50569,GRL|Crepe|NutellaBanana
-R-28293,GRL|Crispy Chicken Strips
-R-35015,GRL|FrenchFries
-R-55155,GRL|Get to Class Sandwich|G&G
-R-57405,GRL|Grilled Cheese|Classic
-R-28235,GRL|Ham &Egg Bfast Sand|G&G
-R-35772,GRL|PotatoWedges
-R-54875,GRL|Poutine|Original
-R-46547,GRL|Salad|Bandit
-R-35749,GRL|Salad|Honey Sesame Chicken
-R-50894,GRL|Salad|Signature|SIDE
-R-57819,GRL|Salad|Spicy Caesar
-R-53848,GRL|Salad|Spicy Caesar|Side
-R-28281,GRL|Sandwich|Breakfast
-R-28232,GRL|Sausage & Egg Bfast Sand
-R-28286,GRL|ScrambledEggs
-R-35014,GRL|YamFries
-R-35751,SWG|Salad|Spicy Caesar
-R-55168,HS|Pasta Bar Plant Based
-R-55166,HS|Pasta Bar w Protien
-R-45419,S&S|Dan Dan Noodle|Pork
-R-44866,S&S|Dan Dan Noodle|Tofu
-R-41308,S&S|Miso Ramen with Egg
-R-43886,SAND|Falafel
-R-43880,SAND|Ham
-R-43885,SAND|Roast Beef
-R-43884,SAND|Turkey
-R-28374,SAND|Veg
-R-43213,SMOOTHIE|MANGO BLISS|16oz
-R-29556,SMOOTHIE|WILD BERRY|16oz
-R-57340,SQR|Bangers & Mash+1
-R-28323,SQR|Butter Chicken
-R-37050,SQR|ButterChicken+1
-R-37051,SQR|ButterChicken+2
-R-28324,SQR|GarlicNaanBread
-R-38664,SQR|Greek Chicken Skewer +1
-R-38665,SQR|Greek Chicken Skewer +2
-R-42369,SQR|PaneerTikaMasala+1
+R-36568,FF|Pasta|Spinach Avocado

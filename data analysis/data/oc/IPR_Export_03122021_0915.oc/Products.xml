@@ -1,243 +1,243 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Prods>
-    <Prod id="R-50859" active="Y" special="N">
-        <Description>ALF|Flatbread|Bruschetta</Description>
-        <Barcode/>
-        <Cost>2.4308</Cost>
-        <Comments/>
-        <SalesGroup id="367">OK - AL FORNO</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>9.99</Price>
-        <PLU num="32183">BRUSCHETTA FLATBREAD</PLU>
-    </Prod>
-    <Prod id="R-50494" active="Y" special="N">
-        <Description>ALF|Flatbread|Proscuitto</Description>
-        <Barcode/>
-        <Cost>3.4982</Cost>
-        <Comments/>
-        <SalesGroup id="367">OK - AL FORNO</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>9.99</Price>
-        <PLU num="28885">PROSCUITTO FLATBREAD</PLU>
-    </Prod>
-    <Prod id="R-56505" active="Y" special="N">
-        <Description>ALF|Pasta|Chicken Alfredo</Description>
-        <Barcode/>
-        <Cost>2.0434</Cost>
-        <Comments/>
-        <SalesGroup id="367">OK - AL FORNO</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>8.99</Price>
-        <PLU num="32194">CHICKEN ALFREDO</PLU>
-    </Prod>
-    <Prod id="R-61129" active="Y" special="N">
-        <Description>AVOCADO SPINACH PASTA</Description>
-        <Barcode/>
-        <Cost>1.7033</Cost>
-        <Comments/>
-        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>8.99</Price>
-        <PLU num="32861">AVOCADO SPINACH PASTA</PLU>
-    </Prod>
-    <Prod id="R-44308" active="Y" special="N">
-        <Description>BNO|Bowl Pulled Pork</Description>
-        <Barcode/>
-        <Cost>2.7708</Cost>
-        <Comments>May 2018 (F19)</Comments>
-        <SalesGroup id="364">OK - BURRITO KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>9.99</Price>
-        <PLU num="32516">PULLED PORK BOWL BUENO</PLU>
-    </Prod>
-    <Prod id="R-44315" active="Y" special="N">
-        <Description>BNO|Bowl|Ancho Chicken</Description>
-        <Barcode/>
-        <Cost>2.5061</Cost>
-        <Comments>May 2018 (F19)</Comments>
-        <SalesGroup id="364">OK - BURRITO KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>9.99</Price>
-        <PLU num="32515">CHICKEN BOWL BUENO</PLU>
-    </Prod>
-    <Prod id="R-44310" active="Y" special="N">
-        <Description>BNO|Bowl|Steak</Description>
-        <Barcode/>
-        <Cost>3.9294</Cost>
-        <Comments>May 2018 (F19)</Comments>
-        <SalesGroup id="364">OK - BURRITO KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>12.99</Price>
-        <PLU num="32699">STEAK BOWL BUENO</PLU>
-    </Prod>
-    <Prod id="R-43587" active="Y" special="N">
-        <Description>BNO|Burrito|Ancho Chicken</Description>
-        <Barcode/>
-        <Cost>2.8038</Cost>
-        <Comments>May 2018 (F19)</Comments>
-        <SalesGroup id="364">OK - BURRITO KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>9.99</Price>
-        <PLU num="32504">CHICKEN BURRITO BUENO</PLU>
-    </Prod>
-    <Prod id="R-44303" active="Y" special="N">
-        <Description>BNO|Burrito|Pulled Pork</Description>
-        <Barcode/>
-        <Cost>3.0685</Cost>
-        <Comments>May 2018 (F19)</Comments>
-        <SalesGroup id="364">OK - BURRITO KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>9.99</Price>
-        <PLU num="32503">PULLED PORK BURRITO BUENO</PLU>
-    </Prod>
-    <Prod id="R-43580" active="Y" special="N">
-        <Description>BNO|Burrito|Steak</Description>
-        <Barcode/>
-        <Cost>4.2271</Cost>
-        <Comments>May 2018 (F19)</Comments>
-        <SalesGroup id="364">OK - BURRITO KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>12.99</Price>
-        <PLU num="32700">STEAK BURRITO BUENO</PLU>
-    </Prod>
-    <Prod id="R-44316" active="Y" special="N">
-        <Description>BNO|Burrito|White Bean</Description>
-        <Barcode/>
-        <Cost>2.6735</Cost>
-        <Comments>May 2018 (F19)</Comments>
-        <SalesGroup id="364">OK - BURRITO KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>10.29</Price>
-        <PLU num="32502">WHITE BEAN BURRITO BUENO</PLU>
-    </Prod>
-    <Prod id="R-57179" active="Y" special="N">
-        <Description>BNO|Chicken Fajita Bowl</Description>
-        <Barcode/>
-        <Cost>2.9435</Cost>
-        <Comments/>
-        <SalesGroup id="364">OK - BURRITO KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>10.99</Price>
-        <PLU num="32846">CHICKEN FAJITA BOWL</PLU>
-    </Prod>
-    <Prod id="R-35896" active="Y" special="N">
-        <Description>CAL|Bowl|Havana</Description>
-        <Barcode/>
-        <Cost>2.4140</Cost>
-        <Comments/>
-        <SalesGroup id="328">OK - GLOBAL KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>9.99</Price>
-        <PLU num="32465">HAVANA BOWL</PLU>
-    </Prod>
-    <Prod id="R-37170" active="Y" special="N">
-        <Description>CST|Beef</Description>
-        <Barcode/>
-        <Cost>3.3240</Cost>
-        <Comments>2017</Comments>
-        <SalesGroup id="329">OK - CUSTOM KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>13.29</Price>
-        <PLU num="18956">CUSTOM BEEF</PLU>
-    </Prod>
-    <Prod id="R-37171" active="Y" special="N">
-        <Description>CST|Chicken</Description>
-        <Barcode/>
-        <Cost>3.0259</Cost>
-        <Comments/>
-        <SalesGroup id="329">OK - CUSTOM KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>13.29</Price>
-        <PLU num="18957">CUSTOM CHICKEN</PLU>
-    </Prod>
-    <Prod id="R-51828" active="Y" special="N">
-        <Description>CST|Fried Rice Friday|Meat</Description>
-        <Barcode/>
-        <Cost>4.1285</Cost>
-        <Comments/>
-        <SalesGroup id="329">OK - CUSTOM KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>11.99</Price>
-        <PLU num="29570">FRIED RICE FRIDAY</PLU>
-    </Prod>
-    <Prod id="R-37172" active="Y" special="N">
-        <Description>CST|Salmon</Description>
-        <Barcode/>
-        <Cost>4.7224</Cost>
-        <Comments/>
-        <SalesGroup id="329">OK - CUSTOM KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>13.99</Price>
-        <PLU num="18959">CUSTOM SALMON</PLU>
-    </Prod>
-    <Prod id="R-37173" active="Y" special="N">
-        <Description>CST|Tofu</Description>
-        <Barcode/>
-        <Cost>2.5027</Cost>
-        <Comments/>
-        <SalesGroup id="329">OK - CUSTOM KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>12.49</Price>
-        <PLU num="18960">CUSTOM TOFU</PLU>
-    </Prod>
-    <Prod id="R-28301" active="Y" special="N">
-        <Description>CST|Veg Only</Description>
-        <Barcode/>
-        <Cost>2.0785</Cost>
-        <Comments/>
-        <SalesGroup id="329">OK - CUSTOM KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>10.99</Price>
-        <PLU num="18958">CUSTOM JUST VEG</PLU>
-    </Prod>
-    <Prod id="R-36568" active="Y" special="N">
-        <Description>FF|Pasta|Spinach Avocado</Description>
-        <Barcode/>
-        <Cost>1.7066</Cost>
-        <Comments/>
-        <SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
-        <SalesCategory id="2">Food</SalesCategory>
-        <IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
-        <TaxGroup id=""/>
-        <Price>8.99</Price>
-        <PLU num="32461">SPINACH AVOCADO PASTA</PLU>
-    </Prod>
+	<Prod id="R-50859" active="Y" special="N">
+		<Description>ALF|Flatbread|Bruschetta</Description>
+		<Barcode/>
+		<Cost>2.4308</Cost>
+		<Comments/>
+		<SalesGroup id="367">OK - AL FORNO</SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>9.99</Price>
+		<PLU num="32183">BRUSCHETTA FLATBREAD</PLU>
+	</Prod>
+	<Prod id="R-50494" active="Y" special="N">
+		<Description>ALF|Flatbread|Proscuitto</Description>
+		<Barcode/>
+		<Cost>3.4982</Cost>
+		<Comments/>
+		<SalesGroup id="367">OK - AL FORNO</SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>9.99</Price>
+		<PLU num="28885">PROSCUITTO FLATBREAD</PLU>
+	</Prod>
+	<Prod id="R-56505" active="Y" special="N">
+		<Description>ALF|Pasta|Chicken Alfredo</Description>
+		<Barcode/>
+		<Cost>2.0434</Cost>
+		<Comments/>
+		<SalesGroup id="367">OK - AL FORNO</SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>8.99</Price>
+		<PLU num="32194">CHICKEN ALFREDO</PLU>
+	</Prod>
+	<Prod id="R-61129" active="Y" special="N">
+		<Description>AVOCADO SPINACH PASTA</Description>
+		<Barcode/>
+		<Cost>1.7033</Cost>
+		<Comments/>
+		<SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>8.99</Price>
+		<PLU num="32861">AVOCADO SPINACH PASTA</PLU>
+	</Prod>
+	<Prod id="R-44308" active="Y" special="N">
+		<Description>BNO|Bowl Pulled Pork</Description>
+		<Barcode/>
+		<Cost>2.7708</Cost>
+		<Comments>May 2018 (F19)</Comments>
+		<SalesGroup id="364">OK - BURRITO KITCHEN </SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>9.99</Price>
+		<PLU num="32516">PULLED PORK BOWL BUENO</PLU>
+	</Prod>
+	<Prod id="R-44315" active="Y" special="N">
+		<Description>BNO|Bowl|Ancho Chicken</Description>
+		<Barcode/>
+		<Cost>2.5061</Cost>
+		<Comments>May 2018 (F19)</Comments>
+		<SalesGroup id="364">OK - BURRITO KITCHEN </SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>9.99</Price>
+		<PLU num="32515">CHICKEN BOWL BUENO</PLU>
+	</Prod>
+	<Prod id="R-44310" active="Y" special="N">
+		<Description>BNO|Bowl|Steak</Description>
+		<Barcode/>
+		<Cost>3.9294</Cost>
+		<Comments>May 2018 (F19)</Comments>
+		<SalesGroup id="364">OK - BURRITO KITCHEN </SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>12.99</Price>
+		<PLU num="32699">STEAK BOWL BUENO</PLU>
+	</Prod>
+	<Prod id="R-43587" active="Y" special="N">
+		<Description>BNO|Burrito|Ancho Chicken</Description>
+		<Barcode/>
+		<Cost>2.8038</Cost>
+		<Comments>May 2018 (F19)</Comments>
+		<SalesGroup id="364">OK - BURRITO KITCHEN </SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>9.99</Price>
+		<PLU num="32504">CHICKEN BURRITO BUENO</PLU>
+	</Prod>
+	<Prod id="R-44303" active="Y" special="N">
+		<Description>BNO|Burrito|Pulled Pork</Description>
+		<Barcode/>
+		<Cost>3.0685</Cost>
+		<Comments>May 2018 (F19)</Comments>
+		<SalesGroup id="364">OK - BURRITO KITCHEN </SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>9.99</Price>
+		<PLU num="32503">PULLED PORK BURRITO BUENO</PLU>
+	</Prod>
+	<Prod id="R-43580" active="Y" special="N">
+		<Description>BNO|Burrito|Steak </Description>
+		<Barcode/>
+		<Cost>4.2271</Cost>
+		<Comments>May 2018 (F19)</Comments>
+		<SalesGroup id="364">OK - BURRITO KITCHEN </SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>12.99</Price>
+		<PLU num="32700">STEAK BURRITO BUENO</PLU>
+	</Prod>
+	<Prod id="R-44316" active="Y" special="N">
+		<Description>BNO|Burrito|White Bean </Description>
+		<Barcode/>
+		<Cost>2.6735</Cost>
+		<Comments>May 2018 (F19)</Comments>
+		<SalesGroup id="364">OK - BURRITO KITCHEN </SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>10.29</Price>
+		<PLU num="32502">WHITE BEAN BURRITO BUENO</PLU>
+	</Prod>
+	<Prod id="R-57179" active="Y" special="N">
+		<Description>BNO|Chicken Fajita Bowl</Description>
+		<Barcode/>
+		<Cost>2.9435</Cost>
+		<Comments/>
+		<SalesGroup id="364">OK - BURRITO KITCHEN </SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>10.99</Price>
+		<PLU num="32846">CHICKEN FAJITA BOWL</PLU>
+	</Prod>
+	<Prod id="R-35896" active="Y" special="N">
+		<Description>CAL|Bowl|Havana</Description>
+		<Barcode/>
+		<Cost>2.4140</Cost>
+		<Comments/>
+		<SalesGroup id="328">OK - GLOBAL KITCHEN </SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>9.99</Price>
+		<PLU num="32465">HAVANA BOWL</PLU>
+	</Prod>
+	<Prod id="R-37170" active="Y" special="N">
+		<Description>CST|Beef </Description>
+		<Barcode/>
+		<Cost>3.3240</Cost>
+		<Comments>2017</Comments>
+		<SalesGroup id="329">OK - CUSTOM KITCHEN</SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>13.29</Price>
+		<PLU num="18956">CUSTOM BEEF</PLU>
+	</Prod>
+	<Prod id="R-37171" active="Y" special="N">
+		<Description>CST|Chicken</Description>
+		<Barcode/>
+		<Cost>3.0259</Cost>
+		<Comments/>
+		<SalesGroup id="329">OK - CUSTOM KITCHEN</SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>13.29</Price>
+		<PLU num="18957">CUSTOM CHICKEN</PLU>
+	</Prod>
+	<Prod id="R-51828" active="Y" special="N">
+		<Description>CST|Fried Rice Friday|Meat</Description>
+		<Barcode/>
+		<Cost>4.1285</Cost>
+		<Comments/>
+		<SalesGroup id="329">OK - CUSTOM KITCHEN</SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>11.99</Price>
+		<PLU num="29570">FRIED RICE FRIDAY</PLU>
+	</Prod>
+	<Prod id="R-37172" active="Y" special="N">
+		<Description>CST|Salmon</Description>
+		<Barcode/>
+		<Cost>4.7224</Cost>
+		<Comments/>
+		<SalesGroup id="329">OK - CUSTOM KITCHEN</SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>13.99</Price>
+		<PLU num="18959">CUSTOM SALMON</PLU>
+	</Prod>
+	<Prod id="R-37173" active="Y" special="N">
+		<Description>CST|Tofu</Description>
+		<Barcode/>
+		<Cost>2.5027</Cost>
+		<Comments/>
+		<SalesGroup id="329">OK - CUSTOM KITCHEN</SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>12.49</Price>
+		<PLU num="18960">CUSTOM TOFU</PLU>
+	</Prod>
+	<Prod id="R-28301" active="Y" special="N">
+		<Description>CST|Veg Only</Description>
+		<Barcode/>
+		<Cost>2.0785</Cost>
+		<Comments/>
+		<SalesGroup id="329">OK - CUSTOM KITCHEN</SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>10.99</Price>
+		<PLU num="18958">CUSTOM JUST VEG</PLU>
+	</Prod>
+	<Prod id="R-36568" active="Y" special="N">
+		<Description>FF|Pasta|Spinach Avocado</Description>
+		<Barcode/>
+		<Cost>1.7066</Cost>
+		<Comments/>
+		<SalesGroup id="541">OK - VEGETARIAN KITCHEN</SalesGroup>
+		<SalesCategory id="2">Food</SalesCategory>
+		<IncomeAccount id="14" ref="Gross Sales" type="I" locked="Y">Gross Sales</IncomeAccount>
+		<TaxGroup id=""/>
+		<Price>8.99</Price>
+		<PLU num="32461">SPINACH AVOCADO PASTA</PLU>
+	</Prod>
 </Prods>
