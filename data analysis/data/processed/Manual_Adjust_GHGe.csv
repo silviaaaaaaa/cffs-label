@@ -1,0 +1,11 @@
+ItemId,CategoryID,Description,CaseQty,CaseUOM,PakQty,PakUOM,InventoryGroup,Category ID,Food Category,Active Total Supply Chain Emissions (kg CO2 / kg food)
+I-3223,59,COCONUT MILK 17/19% MILK FAT,6,LG CAN,2.84,L,FOOD - GROCERY,59,manually adjusted,3.5
+I-3370,59,MUSTARD DIJON HOT,2,each,4625,ml,FOOD - GROCERY,59,manually adjusted,2.326
+I-3368,59,MUSTARD DIJON GRAINY OLD FASH,2,pail,4625,ml,FOOD - GROCERY,59,manually adjusted,2.326
+I-2897,59,MUSTARD DIJON GRAINY FLEUR,4,Kg,1,Kg,FOOD - GROCERY,59,manually adjusted,2.326
+I-3365,59,MUSTARD BIG YELLOW PLAS,4,JUG,2.84,L,FOOD - GROCERY,59,manually adjusted,1.76
+I-3352,59,MAYONNAISE PAIL TFC 4L,2,each,4,L,FOOD - GROCERY,59,manually adjusted,3.55
+I-3348,59,MAYONNAISE 1/2 FAT TFC,2,4L,4,L,FOOD - GROCERY,59,manually adjusted,1.22
+I-3336,59,KETCHUP BIG RED PLAS,6,LG CAN,2.84,L,FOOD - GROCERY,59,manually adjusted,2.01
+I-3284,59,EXTRACT VANILLA PURE,1,500ML,1,500ML,FOOD - GROCERY,59,manually adjusted,0
+I-52090,1,BURGER BEEF & MUSHROOM HALAL,1,cs,48,CT,MEAT,1,beef & buffalo meat,31.1375
