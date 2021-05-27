@@ -7,6 +7,15 @@ Multiplier,ConvertFromQty,ConvertFromUom,ConvertToQty,ConvertToUom
 236.588125,1,cup,236.588125,ml
 29.5735,1,fl oz,29.5735,ml
 1000,1,L,1000,ml
+355,1,355ML,355,ml
+450,1,450ML,450,ml
+500,1,500ML,500,ml
+591,1,591ML,591,ml
+473,1,473ML,473,ml
+650,1,650ML,650,ml
+700,1,700ML,700,ml
+710,1,710ML,710,ml
+750,1,750ML,750,ml
 453.592,1,lb,453.592,g
 28.3495,1,oz,28.3495,g
 1000,1,Kg,1000,g
