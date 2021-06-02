@@ -20,3 +20,4 @@ Multiplier,ConvertFromQty,ConvertFromUom,ConvertToQty,ConvertToUom
 28.3495,1,oz,28.3495,g
 1000,1,Kg,1000,g
 0.001,1000,mg,1,g
+40,1,full in,40,PTN
