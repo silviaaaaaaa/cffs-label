@@ -1,258 +1,442 @@
 ProdId,Description
-R-54100,BEV|Eggnog Chai
-R-50814,BEV|Water|Dasani|591ml
-R-25866,"MC- Salad Watermelon, tomato"
-R-30415,Salad- Spelt & Arugula
-R-30414,SALAD|Antipasto Pasta
-R-10224,SALAD|Caesar
-R-10222,SALAD|Caprese
-R-31439,SALAD|Summer Watermelon
-R-25867,SALAD|Very Berry Spelt
-R-31440,SALAD|Very Berry/Spelt
-R-61590,SANCK|Sand Caprese
-R-10223,SAND|BKFST|Colazione
-R-61589,SNACK|Sand Capicollo
-R-58674,SOFT DRINK - PLASTIC - 591ml
-R-54116,"Spread - Butter, Margarine."
-R-10388,SQUARE DAILY
-R-60580,Steamed Eggnog - Large
-R-54122,STEAMED MILK - 16oz
-R-60778,SUGAR COOKIE - HEART
-R-10391,SUPREME BISCOTTI
-R-10390,SUPREME DANISH
-R-10387,SWEET LOAF
-R-48867,Val|Cookies Heart
-R-54124,Add - Cheese Portion
-R-55701,ADD|Chocolate
-R-60790,EGGNOG CHIA PUDDING
-R-60585,EGGNOG LATTE - 12oz
-R-60578,EGGNOG LATTE - 16oz
-R-60574,ENERGY DRINK - MONSTER
-R-54125,ENERGY DRINK - YERBA MATE.
-R-60599,FAIR TRADE CAMINO C1HOCOLATE -
-R-60579,FAIR TRADE CAMINO CHOCOLATE -
-R-60591,FAIR TRADE CAMINO1 CHOCOLATE -
-R-60593,FAIR TRADE CAMINO2 CHOCOLATE -
-R-60822,FERTUREPIZZA|Prosciutto Bianca
-R-9819,HOT CHOC 12OZ
-R-9821,HOT CHOC 20OZ
-R-60781,ICE CRM - COCONUT BLISS - BAR
-R-60782,ICE CRM - COCONUT BLISS - BOX
-R-60783,ICE CRM - COCONUT BLISS - SAND
-R-60598,ICE CRM - CYCLONE
-R-60576,ICE CRM - KLONDIKE BAR
-R-60597,ICE CRM - KLONDIKE CONE
-R-60595,ICE CRM - KLONDIKE GIANT COOKI
-R-60581,ICE CRM - KLONDIKE SANDWICH
-R-60575,ICE CRM - MAGNUM BAR
-R-60606,ICE CRM - POPSICLE
-R-60592,ICE CRM- FUDGICLE
-R-60596,ICE CRM-CREAMSICLE
-R-54128,BAKE|Cookie|Christmas Tree/Bel
-R-31433,BAKE|Loaf|Sweet
-R-60577,COOKIE - PUMPKIN SUGAR
-R-60777,COOKIE - VALENTINES CHOC CHIP
-R-49732,Mugshare $2 Charge
-R-49762,Mugshare In/Out
-R-49763,Mugshare Return
-R-10381,Orange
-R-54114,OWN CUP CREDIT
-R-60788,PARFAIT - PUMPKIN PIE CHIA
-R-60779,PARFAIT - VALENTINES RED VELVE
-R-5549,PASTA|Lasagne
-R-31438,PASTA|Tortellini
-R-45227,PASTRY|BA BLUEBERRY CRM DANISH
-R-60600,PHONE ORDER
-R-44959,Pizza-Promo Blueberry
-R-56731,PIZZA|Beyond BBQ
-R-58300,PIZZA|Beyond Squash
-R-11657,PIZZA|Bianca
-R-55899,PIZZA|Feature
-R-8355,PIZZA|Margherita
-R-45559,PIZZA|Marinara Anacardio
-R-11658,PIZZA|Ortalana
-R-8358,PIZZA|Pesto
-R-48838,PIZZA|Pesto Pollo
-R-56772,PIZZA|Plant Base Chorizo
-R-8356,PIZZA|Prosciutto
-R-8357,PIZZA|Salsiccia
-R-60787,PONDEROSA CAKE FAIR TRADE
-R-55904,PROSCIUTTO
-R-60776,PUDDING - VALENTINES CHIa
-R-60586,APPLE CINNAMON STREUSEL MUFFIN
-R-5961,BAKE|Tiramisu
-R-61044,CAKE - CHOCOLATE HEART
-R-60605,CINNAMON BUN
-R-54117,COBB SALAD (VEG)
-R-60840,COMBO|Valentines
-R-54262,COOKIE - CHRISTMAS SNOWFLAKE
-R-61530,COOKIE - EASTER BUNNY
-R-61470,COOKIE - EASTER EGG
-R-60604,COOKIE - GINGER CINNAMON BEAR
-R-60602,COOKIE - HALLOWEEN CHOCO CHIP
-R-60603,COOKIE - LINZER
-R-60583,COOKIE - SHORTBRD
-R-60775,COOKIE - VALENTINES - RASP
-R-61213,COOKIE - VALENTINES CHOC DIP S
-R-31441,CROISSANT - PL
-R-54127,CROISSANT - SPINACH FETA
-R-54092,CROISSANT - SPINACH FETA RED P
-R-10389,CROISSANT CHOCO
-R-54118,CRUNCHY KALE SALAD w/ OC SALMO
-R-50816,CUP|Paper
-R-20185,ADD|Pizza Protein
-R-10370,BEV|Mocha|20oz
-R-54093,JUICE - SIMPLY
-R-10383,Lemon
-R-20187,LONDON FOG
-R-54433,LONDON FOG.
-R-5959,M Lasagna
-R-36497,MADE GOOD
-R-55702,Mango
-R-55903,MARGHERITA
-R-55900,MC - Add Salsiccia
-R-10355,MC - COFFEE - MILANO - 12oz
-R-10356,MC - COFFEE - MILANO - 16oz
-R-10386,MC - CROISSANT - ALMOND
-R-18508,MC - CUTLERY - PLASTIC
-R-60789,MC - GNOCCHI
-R-10361,MC - HOT CHOCOLATE - 16oz
-R-10359,MC - HOT WATER
-R-10402,MC - ICED AMERICANO - 12oz
-R-10378,MC - ICED AMERICANO - 16oz
-R-10405,MC - ICED AMERICANO - 20oz
-R-10400,MC - ICED LATTE - 12oz
-R-10376,MC - ICED LATTE - 16oz
-R-10401,MC - ICED LATTE - 20oz
-R-10406,MC - ICED MOCHA - 12oz
-R-10377,MC - ICED MOCHA - 16oz
-R-11659,MC - ICED MOCHA - 20oz
-R-18507,MC - ITALIAN SODA
-R-10403,MC - JUICE - HAPPY PLANET
-R-60774,MC - PASTA FEATURE
-R-60582,MC - PIZZA - BEYOND BBQ
-R-60786,MC - PIZZA - BLUEBERRY
-R-60588,MC - PIZZA - MARINARA VEGANO
-R-60587,MC - PIZZA - VEGAN CHORIZO
-R-55902,MC - PIZZA COMBO
-R-35379,MC - SALAD - CAESAR
-R-60780,MC - SALAD - GAMBERINI
-R-10379,MC - SOFT DRINK - SAN PELLE.
-R-10363,MC - TEA LATTE - 12oz
-R-10364,MC - TEA LATTE - 16oz
-R-10392,MC - TEA LATTE - 20oz
-R-61212,MC - VALENTINES COMBO
-R-55700,MC- GELATO
-R-10372,BEV|Americano 16oz
-R-10373,BEV|Americano 20oz
-R-31435,BEV|Americano Misto|12oz
-R-31436,BEV|Americano Misto|16oz
-R-31437,BEV|Americano Misto|20oz
-R-10371,BEV|Americano12oz
-R-11075,BEV|Cappuccino 12oz
-R-11076,BEV|Cappuccino 16oz
-R-11532,BEV|Cappuccino 20oz
-R-10287,BEV|Coffee 12oz
-R-10323,BEV|Coffee 16oz
-R-10357,BEV|Coffee 20oz
-R-54147,BEV|Eggnog Chai Large
-R-54106,BEV|Eggnog Chai Medium
-R-54137,BEV|Eggnog Chai Smaill
-R-54099,BEV|Eggnog Latte
-R-54119,BEV|Eggnog Latte Large
-R-54105,BEV|Eggnog Latte Medium
-R-54104,BEV|Eggnog Latte Small
-R-10375,BEV|Espresso|Double
-R-10374,BEV|Espresso|Single
-R-10360,BEV|Hot Chocolate|12oz
-R-9820,BEV|Hot Chocolate|16oz
-R-10362,BEV|Hot Chocolate|20oz
-R-51436,BEV|Iced American 16oz
-R-51434,BEV|Iced Latte 16oz
-R-51438,BEV|Iced Latte 20oz
-R-51435,BEV|Iced Mocha 16oz
-R-11533,BEV|Juice|Odwalla
-R-10394,BEV|Latte/Caappuccino|20oz
-R-10366,BEV|Latte/Cappuccino|12oz
-R-10367,BEV|Latte/Cappuccino|16oz
-R-10380,BEV|Milk 2 go
-R-50815,BEV|Milk|2 go
-R-10368,BEV|Mocha|12oz
-R-10369,BEV|Mocha|16oz
-R-54103,BEV|Peppermint Hot Choc
-R-54112,BEV|Peppermint Hot Choc|Small
-R-54102,BEV|Peppermint Mocha
-R-54111,BEV|Peppermint Mocha|Large
-R-54110,BEV|Peppermint Mocha|Medium
-R-54109,BEV|Peppermint Mocha|Small
-R-10397,BEV|Soft Drink|Fountain
-R-54101,BEV|Steamed Eggnog
-R-54108,BEV|Steamed Eggnog|Medium
-R-54107,BEV|Steamed Eggnog|Small
-R-10365,BEV|Steamed Milk|12oz
-R-10393,BEV|Steamed Milk|16oz
-R-10399,BEV|Steamed Milk|20oz
-R-51437,BEV|Tea Latte|12oz
-R-10358,BEV|Tea|Gypsy
-R-38861,BEV|Water|Dasani|Sparkling
-R-54121,BEVPeppermint Hot Choc|Large
-R-54120,BEVPeppermint Hot Choc|Medium
-R-61454,$1 ICE CREAM
-R-11514,Add - Soy
-R-34279,Add On- Arugula
-R-34275,Add On- Cheese Mozza
-R-34278,Add On- Meat Chorizo
-R-34276,Add On- Meat Ham
-R-20186,ADD|Breakfast Protein
-R-20182,ADD|Cheese
-R-20184,ADD|Egg
-R-10398,ADD|Espresso Shot
-R-34277,ADD|Meat|Prosciutto
-R-11077,ADD|Soy
-R-10557,ADD|Syrup/Soy
-R-20183,ADD|Veg
-R-60594,AHA - BLUEBERRY POM (500ml)
-R-60601,AHA - LIME WATERMELON (500ml)
-R-60589,AHA - PEACH HONEY (500ml)
-R-55901,ALLA SALSICCIA
-R-54113,ASSORTED OMG / COCO LOVE
-R-25917,BAKE|Biscotti|Supreme
-R-54091,BAKE|Cookie|Gingerbread Person
-R-54129,BAKE|Cookie|Gingersnap
-R-50817,BAKE|Croissant|Almond
-R-54438,BAKE|Croissant|Cheese
-R-29511,BAKE|Croissant|chocolate
-R-55898,BAKE|Croissant|Plain
-R-25916,BAKE|Danish|Supreme
-R-10226,BAKE|Dolce Panino
-R-31434,BAKE|Square|Daily/Brownie
-R-54126,BAKE|Tart|Mini Mincemeat
-R-55697,BAR|Granola
-R-60584,BB - COOKIE
-R-60784,BB - MANGO CHEESECAKE
-R-60785,BB - TART - Reg
-R-33644,BEER|Main St Pilsner
-R-34450,BEER|Molson|Canadian
-R-33645,BEER|Old Nights Pale ale
-R-37996,BEER|Peroni|Bottle
-R-37998,BEER|Peroni|Tall Can
-R-54132,TART - PUMPKIN 4in
-R-36551,"TARTINE TARTSQuiche, Asparagus"
-R-54431,TEA LATTE - 16oz
-R-54439,TEA LATTE - 20oz
-R-61579,TEST|Antipasto
-R-60824,TEST|PIZZA|Arrabiata
-R-60827,TEST|PIZZA|BBQ Pollo
-R-60825,TEST|PIZZA|Capricciosa
-R-60828,TEST|PIZZA|Primavera
-R-60823,TEST|PIZZA|Prosciutto & Funghi
-R-60826,TEST|PIZZA|Salumeria
-R-10404,THINKGOODNESS LOAF
-R-54098,United Way FREE Coffee 12oz
-R-48869,Val|Cake Choc Heart
-R-48866,Val|Cookies Ginger Bear
-R-61211,VALENTINES CHOCOLATE BARK - LA
-R-54094,VEGGIE CRUDITE - SMKY CHIPOTLE
-R-55366,WATER - SMART - RASP/ROSE
-R-37995,WINE|Inniskillin|Pinot Grigio
-R-37997,WINE|JacksonTriggs|Sauvignon
+R-61778,ALF|Flatbread|4 Cheese
+R-61780,ALF|Flatbread|Apple & Pancetta
+R-61749,ALF|Flatbread|BBQ Chicken
+R-50859,ALF|Flatbread|Bruschetta
+R-50788,ALF|Flatbread|Caprese
+R-61781,ALF|Flatbread|Chick Artichoke
+R-50858,ALF|Flatbread|Greek
+R-61498,ALF|Flatbread|Hawaii Five-0
+R-50562,ALF|Flatbread|Italian
+R-56337,ALF|Flatbread|Mediterranean
+R-61782,ALF|Flatbread|Mushroom
+R-61779,ALF|Flatbread|Mushroom Pesto
+R-50590,ALF|Flatbread|OK
+R-50494,ALF|Flatbread|Proscuitto
+R-50824,ALF|Flatbread|Pulled Pork
+R-61755,ALF|Flatbread|Roasted Root Veg
+R-61742,ALF|Flatbread|Shrimp Pesto
+R-50896,ALF|Flatbread|Smoked Salmon
+R-61763,ALF|Pasta|Bolognese Lasagna
+R-61659,ALF|Pasta|Cauliflower Cheese
+R-56505,ALF|Pasta|Chicken Alfredo
+R-51303,ALF|Pasta|Chorizo Penne
+R-61435,ALF|Pasta|Mac & Cheese
+R-56504,ALF|Pasta|Shrimp Pesto
+R-61688,ALF|Pasta|Spin Mush Lasagna
+R-61758,ALF|Pasta|Tuna Casserole
+R-56454,GRL|Chicken Burger|Maui
+R-56491,GRL|Sandwich|Bahn Mi
+R-61739,GRL|Sandwich|Chicken Crunch
+R-56458,GRL|Sandwich|Crispy Fish
+R-56508,GRL|Sandwich|Cubano
+R-56456,GRL|Sandwich|Monte Cristo
+R-50491,GRL|Sandwich|Reuben
+R-56924,GRL|Sandwich|Shrimp
+R-56493,GRL|Sandwich|Tuna Melt
+R-36043,SQR|AlooGobi 225g
+R-47340,SQR|Brown Rice 170g
+R-28323,SQR|Butter Chicken
+R-37050,SQR|Butter Chicken+1
+R-37051,SQR|Butter Chicken+2
+R-57165,SQR|Cabbage & Apple|Side
+R-54176,SQR|Chicken Cacciatore
+R-57710,SQR|Chicken Cacciatore +1
+R-57711,SQR|Chicken Cacciatore +2
+R-28324,SQR|Garlic Naan Bread
+R-57565,SQR|Green Beans|Steamed
+R-42369,SQR|Paneer TikaMasala+1
+R-42370,SQR|Paneer TikaMasala+2
+R-42358,SQR|PaneerTikaMasala
+R-56115,SQR|Perogy (No Smokie)
+R-57808,SQR|Perogy (no smokie) +1
+R-44570,SQR|Perogy & Smokie
+R-57809,SQR|Perogy & Smokie +1
+R-56884,SQR|Ratatouille Spaghetti
+R-57712,SQR|Ratatouille Spaghetti +1
+R-57713,SQR|Ratatouille Spaghetti +2
+R-51585,SQR|Roasted Garlic Bread
+R-61434,SQR|Roasted Garlic Bread.
+R-30537,SQR|Smokie|SIde
+R-30406,G&G|Croissant|Multigrain|OK 
+R-58255,GRL|Add Bacon|2 pcs.
+R-55155,GRL|Breakfast BLT
+R-28280,GRL|Breakfast Entree
+R-50368,GRL|BreakfastCroissant
+R-44024,GRL|Burrito|Wrap
+R-55131,GRL|Crepe|Blueberry
+R-51146,GRL|Crepe|Ham and Swiss
+R-50569,GRL|Crepe|Nutella Banana
+R-61686,GRL|Crepe|Orange Ricotta
+R-37340,GRL|Egg Any Style
+R-28291,GRL|Grilled Tomato
+R-50348,GRL|Pancakes|AppleOat
+R-56489,GRL|Pancakes|Blueberry
+R-50351,GRL|Pancakes|Oatmeal Raisin 
+R-12346,GRL|Pancakes|Straw Chocolate
+R-56488,GRL|Pancakes|Straw/Rhubarb
+R-12345,GRL|Pancakes|Strawberry
+R-35772,GRL|PotatoWedges
+R-28281,GRL|Sandwich|Breakfast
+R-28286,GRL|ScrambledEggs
+R-28288,GRL|TurkeyBreakfastSausage(2)
+R-28337,SQR|Braised Brisket 115g
+R-38628,SQR|Braised Brisket+1
+R-38629,SQR|Braised Brisket+2
+R-57385,SQR|Chicken Piccata
+R-57386,SQR|Chicken Piccata+1
+R-57387,SQR|Chicken Piccata+2
+R-32195,SQR|Creamed Corn 170g
+R-56501,SQR|Mac & Aged Cheddar
+R-59715,SQR|Mac & Aged Cheddar +1
+R-59716,SQR|Mac & Aged Cheddar +2
+R-28318,SQR|Seasonal Vegetable
+R-59717,SQR|Spicy Soy Green Beans.
+R-41084,SQR|Spicy Soy Salmon 100g
+R-41085,SQR|Spicy Soy Salmon+1
+R-41086,SQR|Spicy Soy Salmon+2
+R-41088,SQR|Spicy Soy Tofu 150g
+R-41089,SQR|Spicy Soy Tofu+1
+R-41093,SQR|Spicy Soy Tofu+2
+R-35799,SQR|STEW|Tomato Spanish 350g
+R-45125,SQR|STEW|Tomato Spanish+1
+R-45126,SQR|STEW|TomatoSpanish +2
+R-59571,SQR|Warm Potato Salad
+R-54202,VEG|Bibimbap Bowl
+R-32886,VEG|Curried Chickpea Bowl
+R-56539,VEG|Hulk Bowl
+R-57098,VEG|Kale Wh Bean Quesadilla
+R-25415,VEG|King Oyster Mushroom Bowl
+R-61748,Veg|Loaded Sweet Potato.
+R-35782,VEG|MIso Glazed Veg Bowl
+R-58351,VEG|Pasta|Harvest Squash
+R-36568,VEG|Pasta|Spinach Avocado
+R-50401,VEG|Platter|Mezze
+R-35319,VEG|SOUP|Miso Dumpling 
+R-27405,VEG|Southwest Bowl
+R-55133,VEG|Spin Artichoke Quesadilla
+R-60319,VEG|Spin Mush Avo Quesadilla
+R-35461,VEG|Tabouleh Bowl
+R-61744,VEG|Toast|Charred Broccoli
+R-58716,VEG|Toast|Mushroom
+R-61750,VEG|TOAST|Roasted Carrot
+R-61625,SIDE|Coleslaw
+R-61787,SIDE|Green Bean & Coconut
+R-61784,SIDE|Turmeric Rice
+R-28340,SQR|Baked Beans 140g
+R-61799,SQR|Balinese Pork Chop
+R-61800,SQR|Balinese Pork Chop +1
+R-61801,SQR|Balinese Pork Chop +2
+R-61760,SQR|Corn Fritters
+R-61761,SQR|Corn Fritters + 1
+R-61762,SQR|Corn Fritters + 2
+R-37081,SQR|House Roast Chicken+1
+R-37082,SQR|House Roast Chicken+2
+R-28355,SQR|House Roasted Chicken 200g
+R-57587,SQR|Mashed Potato
+R-28363,SQR|Mashed Potato 170g
+R-57375,SQR|Mushroom Ravioli
+R-61292,SQR|Mushroom Ravioli +1
+R-61305,SQR|Mushroom Ravioli +2
+R-34024,SQR|Roast|Cauliflower|Wedge
+R-51309,SQR|Roast|Cauliflower|Wedge+1
+R-51310,SQR|Roast|Cauliflower|Wedge+2
+R-28338,SQR|Slow Roasted Ribs 170g
+R-40749,SQR|Slow Roasted Ribs+1
+R-40750,SQR|Slow Roasted Ribs+2
+R-61792,SQR|STEW|Beef & Mushroom
+R-61793,SQR|STEW|Beef & Mushroom +1
+R-61794,SQR|STEW|Beef & Mushroom +2
+R-61809,SQR|STEW|Mushroom & Squash
+R-61807,SQR|STEW|Mushroom & Squash +1
+R-61808,SQR|STEW|Mushroom & Squash+2
+R-61803,SQR|Sweet & Spicy Tempe
+R-61804,SQR|Sweet & Spicy Tempe +1
+R-61805,SQR|Sweet & Spicy Tempe +2
+R-35270,GRL|Burger|Bacon Mush Swiss
+R-50323,GRL|Burger|Blue Cheese
+R-28250,GRL|Burger|Cheeseburger
+R-28249,GRL|Burger|Classic Beef 
+R-54296,GRL|Burger|Mexi Burger
+R-28252,GRL|Burger|Shacks
+R-56460,GRL|Burger|Tokyo
+R-30954,GRL|Chicken Breast
+R-54583,GRL|Chicken Burger|BBQ 
+R-35714,GRL|Chicken Burger|Blackened
+R-50466,GRL|Chicken Burger|Buffalo
+R-28251,GRL|Chicken Burger|California
+R-51202,GRL|Chicken Burger|Garden Veg
+R-50662,GRL|Chicken Burger|Greek
+R-43964,GRL|Chicken Burger|Thai Chili
+R-61731,GRL|Crepe|Mixed Berry
+R-28254,GRL|GrilledCheese|3 Cheese Tom
+R-50669,GRL|GrilledCheese|Bacon Avoca
+R-57405,GRL|GrilledCheese|Classic
+R-12347,GRL|Veg Burger|Black Bean
+R-50656,GRL|Veg Burger|Chickpea
+R-60324,GRL|Veg Burger|Lentil 
+R-35655,GRL|Veg Burger|Portobello
+R-53084,GRL|Veg Burger|Ultimate
+R-57362,SIDE|Ginger Broccoli
+R-58341,SIDE|Sunamono
+R-55163,SQR|Bacon Avo Blue Dog
+R-61683,SQR|Chorizo Dog
+R-56883,SQR|Classic Hotdog
+R-57569,SQR|Classic Hotdog veg
+R-43922,SQR|Laksa Tofu 
+R-57051,SQR|Laksa Tofu +1
+R-57052,SQR|Laksa Tofu +2
+R-55165,SQR|Mac & Cheese Dog
+R-57570,SQR|Mac & Cheese Dog veg
+R-45203,SQR|Salmon Laksa
+R-56866,SQR|Salmon Laksa +2
+R-57567,SQR|Veg Avo Blue Dog 
+R-56865,SQRSalmon Laksa +1
+R-60769,SALAD|Watermelon & Feta
+R-61818,SIDE|Quinoa
+R-61815,SIDE|Smkd Apple Veg Sausage
+R-60820,SIDES|Mashed Potato|VEGAN
+R-60819,SIDES|Minted Peas|VEGAN
+R-57338,SQR|Bangers & Mash
+R-57340,SQR|Bangers & Mash+1
+R-51313,SQR|Chayote Salad Tostadas
+R-56837,SQR|Chicken Marbella
+R-57332,SQR|Chicken Marbella+1
+R-57331,SQR|Chicken Marbella+2
+R-44975,SQR|Elotes 120g
+R-32752,SQR|Greek Chicken Skewer
+R-38664,SQR|Greek Chicken Skewer +1
+R-38665,SQR|Greek Chicken Skewer +2
+R-32757,SQR|Lemon Roasted Potatoes
+R-37055,SQR|Porchetta +1
+R-37056,SQR|Porchetta +2
+R-35815,SQR|Porchetta 130g
+R-50560,SQR|Pulled Pork Tostada
+R-51311,SQR|Pulled Pork Tostada+1
+R-51312,SQR|Pulled Pork Tostada+2
+R-45744,SQR|Rice And Beans 170g
+R-57334,SQR|Tempe Marbella
+R-57333,SQR|Tempe Marbella+1
+R-57084,SQR|Tempe Marbella+2
+R-57343,SQR|Veg Bangers & Mash
+R-57342,SQR|Veg Bangers & Mash+1
+R-51314,SQU|Chayote Salad Tostadas+1
+R-50440,SQU|Chayote Salad Tostadas+2
+R-26808,BRUNCH|Quiche|3 Cheese
+R-51258,BRUNCH|Quiche|Denver
+R-57035,BRUNCH|Quiche|Ham&Cheese
+R-57034,BRUNCH|Quiche|Smoked Salmon
+R-51196,BRUNCH|Quiche|Spinach & Feta
+R-26809,BRUNCH|Quiche|Western
+R-61770,SQR|Chicken Pot Pie
+R-61771,SQR|Chicken Pot Pie + 1
+R-61772,SQR|Chicken Pot Pie + 2
+R-57089,SQR|Edamame Puree
+R-57153,SQR|Pork Katsu
+R-57582,SQR|Pork Katsu +1
+R-57583,SQR|Pork Katsu +2
+R-61773,SQR|Root Veg Pot Pie
+R-61774,SQR|Root Veg Pot Pie + 1
+R-61775,SQR|Root Veg Pot Pie + 2
+R-45152,SQR|Salad|RoastedPineapple 
+R-45151,SQR|Shoyu Chicken +1
+R-45153,SQR|Shoyu Chicken +2
+R-45150,SQR|Shoyu Chicken 170g (1pc) 
+R-50390,SQR|Shoyu Tofu 150g
+R-51305,SQR|Shoyu Tofu+1
+R-51306,SQR|Shoyu Tofu+2
+R-57328,SQR|Sweet Potato Katsu
+R-57329,SQR|Sweet Potato Katsu+1
+R-57581,SQR|Sweet Potato Katsu+2
+R-61655,GRL|Salad|Caesar|SIDE
+R-56901,SALAD|Green Papaya
+R-38518,SQR|Citrus Cous-Cous 170g
+R-46844,SQR|Mushroom Bao+1
+R-35735,SQR|MushroomBao
+R-46845,SQR|MushroomBao+2
+R-61622,SQR|PASTA|Beef Lasagna
+R-61623,SQR|PASTA|Beef Lasagna +1
+R-61624,SQR|PASTA|Beef Lasagna +2
+R-55245,SQR|Peri Peri Chicken
+R-61701,SQR|Peri Peri Chicken +1
+R-61702,SQR|Peri Peri Chicken +2
+R-32866,SQR|Pork Belly Bao
+R-40745,SQR|Pork Belly Bao+1
+R-40746,SQR|Pork Belly Bao+2
+R-61766,SQR|Potato Croquette
+R-61767,SQR|Potato Croquette + 1
+R-61768,SQR|Potato Croquette + 2
+R-50524,SQR|Salad|Warm Carrot 150g
+R-32869,SQR|Stirfried Mix Veg 170g
+R-45190,SQR|Thai Chicken Thigh +1
+R-45191,SQR|Thai Chicken Thigh +2
+R-45020,SQR|Thai Chicken Thighs
+R-55609,SQR|Veg Fried Rice
+R-45202,SQR|Vegan Pad Thai +2
+R-44350,SQR|Vegan Pad Thai 350g
+R-45201,SQR|Vegan Pad Thai+1
+R-37083,SQR|Vegetable Lasagna+1
+R-37084,SQR|Vegetable Lasagna+2
+R-28396,SQR|Vegetarian Lasagna 250g
+R-48321,BRNCH|Egg's Benny|Blackstone
+R-48357,BRNCH|Eggs Benny|Smk Salmon
+R-48359,BRNCH|Eggs Benny|Spin &Feta
+R-57279,SQR| Dirty Rice
+R-58406,SQR| Shitake Congee
+R-61752,SQR|Cauliflower Po'Boy
+R-61753,SQR|Cauliflower Po'Boy +1
+R-61754,SQR|Cauliflower Po'Boy +2
+R-60515,SQR|Citrus Arugula Salad|Side
+R-57182,SQR|Fried Okra|SIDE
+R-60386,SQR|Kimchii Shrimp Congee 
+R-60388,SQR|Lemongrass Tofu Congee DS
+R-55168,SQR|Pasta Bar Plant Based
+R-55166,SQR|Pasta Bar w Protien
+R-54456,SQR|Po'Boy Prawn
+R-58400,SQR|Po'Boy Prawn +1
+R-58401,SQR|Po'Boy Prawn +2
+R-57347,SQR|Thai Green Fish Curry
+R-57350,SQR|Thai Green Fish Curry+1
+R-57351,SQR|Thai Green Fish Curry+2
+R-49260,SQR|TOFU|Thai Green Curry 
+R-49262,SQR|TOFU|Thai Green Curry+1
+R-49263,SQR|TOFU|Thai Green Curry+2
+R-43372,BURRITO|Bowl|Chicken 
+R-43375,BURRITO|Bowl|Pork
+R-41795,BURRITO|Bowl|Veg
+R-43366,BURRITO|Chicken
+R-43367,BURRITO|Pork
+R-33872,BURRITO|Veg
+R-57239,FLX|Taco|oceanwise|COD
+R-56711,FLX|Taco|Oceanwise|PRAWN
+R-57237,FLX|Taco|Oceanwise|seaweed
+R-44682,SAND|Add|Add Turkey
+R-45838,SAND|Add|Bacon
+R-44681,SAND|Add|Beef
+R-44678,SAND|Add|Cheese
+R-44679,SAND|Add|Falafel 
+R-44680,SAND|Add|Ham
+R-43886,SAND|Falafel
+R-43880,SAND|Ham
+R-43885,SAND|Roast Beef
+R-43884,SAND|Turkey 
+R-28374,SAND|Veg
+R-60989,TRUCK|3 Bean Chili
+R-60552,TRUCK|BBQ Jackfruit|add on
+R-60554,TRUCK|BBQ Pulled Pork Sand
+R-44779,TRUCK|Chick Wings|W/O Gluten
+R-60979,TRUCK|Chips Salsa Queso|SIDE
+R-60549,TRUCK|Feature Fish Taco|2pc
+R-55819,TRUCK|Fish & Chips|2pc
+R-56513,TRUCK|Folded Chicken Bacon csr
+R-60569,TRUCK|GrilledCheese|Bacon Avo
+R-60558,TRUCK|Grl Cheese & Tom Soup|
+R-60550,TRUCK|Mac & Cheese
+R-61338,TRUCK|Philly Cheese Steak
+R-60551,TRUCK|Pulled Pork|add on
+R-44931,TRUCK|Salmon Burger & Fries
+R-35651,TRUCK|Tomato Soup
+R-56955,TRUCK|West Coast Chowder 
+R-44319,FLX|Side Quinoa Tabouleh Salad
+R-54174,GLB|Beef Rendang
+R-36078,GLB|Beef Vindaloo
+R-35896,GLB|Bowl|Havana
+R-59582,GLB|Bowl|Havana|Tofu
+R-35900,GLB|Bowl|Latino
+R-56895,GLB|Brussel Sprout Pasta
+R-32750,GLB|Chicken Adobo
+R-29391,GLB|Chicken Kung Pao
+R-56827,GLB|Chickpea Vindaloo
+R-45419,GLB|Dan Dan Noodle|Pork
+R-44866,GLB|Dan Dan Noodle|Tofu
+R-44362,GLB|Fried Cauliflower Bowl
+R-56835,GLB|Ginger Beef
+R-56993,GLB|Jambalaya
+R-45426,GLB|Massaman Curry|Beef
+R-50007,GLB|Pasta|Beef Stroganoff
+R-50501,GLB|Pasta|WestCoastSpaghetti
+R-56893,GLB|Short Rib Pappardelle
+R-37093,GLB|Spaghetti & Meatballs
+R-51195,GLB|Sweet & Sour Pork
+R-33532,GLB|Sweet Chili Chicken
+R-50700,GLB|Teriyaki Tofu Bowl
+R-61691,GLB|Tofu Jambalaya
+R-27275,VEG|Bowl|Black Bean Breakfast
+R-43738,VEG|BOWL|Dobanjiang Noodle 
+R-36666,VEG|Bowl|Five Alarm
+R-35341,VEG|Bowl|Polenta
+R-61110,VEG|Bowl|Spicy Tofu
+R-55116,VEG|Breakfast Chilaquiles
+R-53342,VEG|Falafel Bowl
+R-56637,VEG|French Toast|Eggnog
+R-56451,VEG|FrenchToast|Corn Flake
+R-50526,VEG|FrenchToast|PeachCompote
+R-48488,VEG|Huevos Rancheros
+R-48632,VEG|HuevosRancheros|2 serv
+R-55117,VEG|Oats|BananaAlmond Overnite
+R-56966,VEG|Oats|Steel Cut|Maple Apple
+R-57345,VEG|Oats|Steel Cut|Spicd Pmpkn
+R-56959,VEG|Oats|Steel Cut|Strawberry
+R-56697,VEG|Omelet|Asparagus
+R-56696,VEG|Omelet|Mushroom Pesto
+R-50555,VEG|Omelet|Spinach Goat Cheese
+R-56509,VEG|Quesadilla|Breakfast
+R-61733,VEG|Quiche|Asparagus
+R-61732,VEG|Quiche|Leek & Ricotta
+R-56688,VEG|Shakshuka
+R-27273,VEG|Toast|OK Avocado
+R-50800,VEG|TOAST|Ricotta Butternut
+R-56510,VEG|Toast|Southwest Avocado
+R-56511,VEG|Toast|Westcoast Avocado
+R-37170,CST|Beef 
+R-37171,CST|Chicken
+R-51828,CST|Fried Rice Friday|Meat
+R-51276,CST|Fried Rice Friday|No Meat
+R-37172,CST|Salmon
+R-61698,CST|SAUCE|Curry Red
+R-61696,CST|SAUCE|Gochujang
+R-51942,CST|SAUCE|Green Onion Ginger
+R-61692,CST|SAUCE|Green Thai Curry
+R-59573,CST|SAUCE|Kung Pao
+R-58390,CST|SAUCE|Lemon Sesame
+R-61695,CST|SAUCE|Spicy Korean BBQ
+R-55488,CST|SAUCE|Sweet Chili
+R-61694,CST|SAUCE|Tamarind
+R-45371,CST|SAUCE|Teriyaki
+R-61693,CST|SAUCE|Thai Basil Lime
+R-61697,CST|SAUCE|Thai Cashew
+R-57402,CST|SAUCE|Yellow Curry
+R-37173,CST|Tofu
+R-28301,CST|Veg Only
+R-40736,DIM SUM|Beef Balls (3)
+R-52602,DIM SUM|Bun|BBQ Pork (1)
+R-52899,DIM SUM|Bun|Chicken (1)
+R-55834,DIM SUM|Bun|Vegetable (1)
+R-49029,DIM SUM|Dumplings (3)
+R-44499,DIM SUM|Egg Roll Veg (1)
+R-58264,DIM SUM|Pork Gyoza (3)
+R-29283,DIM SUM|Shrimp & Pork Siu Mai
+R-29284,DIM SUM|Shrimp Ha Gow
+R-29282,DIM SUM|Vegetable Gyoza (3)
+R-52601,DIM SUM|Wrap Sticky Rice (1)
+R-61509,SIDE|Mexican Corn
+R-47416,SIDE|Salsa Guac Queso & Chips
+R-47422,SQR|Chicken Quesadilla
+R-57814,SQR|Chicken Quesadilla +1
+R-61680,SQR|Chicken Quesadilla +2
+R-56885,SQR|Dahl & Cauliflower Rice
+R-58657,SQR|Dahl & Cauliflower Rice+1
+R-62022,SQR|Dahl & Cauliflower Rice+2
+R-56888,SQR|Korean Short Rib
+R-56889,SQR|Korean Short Rib + 1
+R-57226,SQR|Korean Short Rib +2
+R-56822,SQR|Korean Spinach
+R-51468,SQR|Tandoori Chicken Leg +1
+R-42368,SQR|Tandoori Chicken Leg +2
+R-51467,SQR|Tandoori Chicken Leg 225g
+R-47424,SQR|Tofu Sofrito Quesadilla
+R-57815,SQR|Tofu Sofrito Quesadilla +1
+R-61679,SQR|Tofu Sofrito Quesadilla +2
+R-56902,SQR|Vegan Lettuce Wrap
+R-57810,SQR|Vegan Lettuce Wrap +1
+R-57811,SQR|Vegan Lettuce Wrap +2
