@@ -2,18 +2,21 @@
 
 UBC Institute for Resources, Environment and Sustainability (IRES)
 
-Created by Silvia Huang
+Created by Silvia Huang, CFFS Data Analyst
 
 
-Description
+Objective
 ------------
-A reproducible framework for analyzing the climate intensity of menu items at the UBC campus by producing the weighted
-metric that informs the choice of icon for each menu item.
+To implement the Climate-Friendly Food Systems (CFFS) definition at the UBC Campus by producing the weighted metric that
+informs the choice of icon for each menu item served by UBC Food Services. Currently, this framework conducts the
+evaluation of greenhouse gas (GHG) emissions, nitrogen loss, freshwater withdrawals, and stress-weighted water
+withdrawals of recipes per serving and 100 grams.
+
 
 
 Prerequisites
 ------------
-Python 3
+Python 3.8.5
 
 
 Project Organization
@@ -31,10 +34,10 @@ Project Organization
     │   └── external       <- External dataset for support
     │
     ├── notebooks
-    │   └──0_methodology and data source.ipynb
     │   └──1_data preprocessing.ipynb
-    │   └──2_data cleaning and mapping.ipynb
-    │   └──3_exploratory data analysis.ipynb
+    │   └──2_data cleaning.ipynb
+    │   └──3_update info and mapping.ipynb
+    │   └──4_data analysis.ipynb
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
     │
